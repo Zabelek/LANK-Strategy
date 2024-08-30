@@ -1,0 +1,32 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, w tym uk³adzie znajduje siê wiele schronów z naszymi,\ndlatego odbicie go jest bardzo wa¿ne.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Zdajemy sobie sprawê, ¿e walka z wie¿ami obronnymi wroga bywa denerwuj¹ca,\nbo boty wybuchaj¹ zanim w ogóle siê do nich zbli¿¹.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "W³aœnie dlatego do twoich schematów dodajemy ciê¿kie boty. S¹ one na tyle\nwytrzyma³e, a ich zasiêg jest na tyle du¿y, ¿e powinny poradziæ sobie w walce z wie¿ami.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Zanim zaczniesz je jednak produkowaæ, nie zapominaj o solidnym wzmocnieniu\nswojej ekonomii, gdy¿ ich wytwarzanie kosztuje bardzo du¿o energii i metalu.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Powodzenia, kapitanie. Niech twoje ciê¿kie boty zaczn¹ dzia³aæ cuda!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dobra robota, kapitanie! Nasze szanse na powodzenie z dnia na dzieñ wzrastaj¹!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Czasem mam wra¿enie, ¿e nasze szanse na powodzenie z dnia\nna dzieñ malej¹. Wracaj tam szybko, kapitanie! Nie mo¿emy sobie pozwalaæ na takie pora¿ki!",
+		},
+	]
+}

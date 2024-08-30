@@ -1,0 +1,101 @@
+{
+	"startDialogueSequencesA": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Zapuœciliœmy siê ju¿ w naprawdê dalekie rubie¿e galaktyki. Aby bez\nprzeszkód móc teleportowaæ tutaj nasze oddzia³y, musimy wzmocniæ\npo³¹czenie z tutejszym wêz³em teleportacyjnym.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Aby tego dokonaæ, potrzebne jest jednoczesne uruchomienie\nspecjalnego protoko³u w dwóch g³ównych stacjach kontrolnych.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Problem polega na tym, ¿e rozmieszczone s¹ one na dwóch ró¿nych\nplanetach. Dodatkowa trudnoœæ stanowi fakt,\n¿e obie s¹ œciœle pilnowane przez oddzia³y wroga.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dlatego w³aœnie zdecydowaliœmy, ¿e do odbicia tego uk³adu\npoœlemy naszych dwóch najlepszych ludzi.",
+		},{
+			"character": "Kaite",
+			"text": "Dosta³am zadanie towarzyszenia ci w tej wyprawie. Pilnuj siê jednak.\nDoœwiadczenie podpowiada mi, ¿e po takich jak ty\nmo¿na spodziewaæ siê wszystkiego.",
+		},{
+			"character": "Kaite",
+			"text": "Wiedz, ¿e jeœli zdecydujesz siê wbiæ mi nó¿ w plecy, bêdzie\nto twoja ostatnia decyzja w ¿yciu.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "No, widzê ¿e nastroje w dru¿ynie zwyczajowo ciep³e i przyjemne\njak letni poranek. Do rzeczy. Dowództwo bêdzie koordynowaæ\nca³¹ akcjê, dlatego pozostañcie w kontakcie.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Najpierw jednak uporajcie siê z jednostkami wroga okupuj¹cymi wasze\npozycje. Powodzenia, liczymy na was!",
+		},
+	],
+	"startDialogueSequencesB": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Zapuœciliœmy siê ju¿ w naprawdê dalekie rubie¿e galaktyki. Aby bez\nprzeszkód móc teleportowaæ tutaj nasze oddzia³y, musimy wzmocniæ\npo³¹czenie z tutejszym wêz³em teleportacyjnym.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Aby tego dokonaæ, potrzebne jest jednoczesne uruchomienie\nspecjalnego protoko³u w dwóch g³ównych stacjach kontrolnych.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Problem polega na tym, ze rozmieszczone s¹ one na dwóch ró¿nych\nplanetach. Dodatkow¹ trudnoœæ stanowi fakt, ¿e obie s¹\nœcisle pilnowane przez oddzia³y wroga.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dlatego w³aœnie zdecydowaliœmy, ze do odbicia tego uk³adu\npoœlemy naszych dwóch najlepszych ludzi.",
+		},{
+			"character": "Zack",
+			"text": "Kazano mi towarzyszyæ ci w tej wyprawie. Nie mam nic\nszczególnego przeciwko tobie, ale wiem, co takim jak ty\nchodzi po g³owie w takich sytuacjach.",
+		},{
+			"character": "Zack",
+			"text": "Jeœli przyjdzie ci do g³owy mnie zdradziæ, dopilnujê, ¿eby ¿adne z nas\nnie wróci³o z tej wyprawy. Tak tylko mówiê.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "No, widzê ¿e nastroje w dru¿ynie zwyczajowo ciep³e i przyjemne\njak letni poranek. Do rzeczy. Dowództwo bêdzie koordynowaæ\nca³¹ akcjê, dlatego pozostañcie w kontakcie.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Najpierw jednak uporajcie siê z jednostkami wroga okupuj¹cymi\nwasze pozycje. Powodzenia, liczymy na was!",
+		},
+	],
+	"winDialogueSequencesA": [
+		{
+			"character": "Kaite",
+			"text": "Nie da siê ukryæ, ¿e by³o ciê¿ko, ale bior¹c pod uwagê brak\nzaawansowanego szkolenia bojowego, muszê przyznaæ, ¿e dobrze ci posz³o.",
+		},{
+			"character": "Kaite",
+			"text": "Nie zawiod³eœ mojego zaufania, a bior¹c pod uwagê twoje pozosta³e\nsukcesy, chyba naprawdê mo¿na na tobie polegaæ.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jeœli mogê coœ zasugerowaæ, uwa¿am, ¿e powinniœcie siê uœciskaæ.\nWiecie, tak symbolicznie. Zgoda miêdzy Cyborgami a Mutantami...",
+		},{
+			"character": "Kaite",
+			"text": "A jeœli ja mogê coœ zasugerowaæ, radzê ci pomyœleæ trzy razy, zanim\npalniesz podobn¹ g³upotê! Dlaczego dowództwo nie zatrudni\nw koñcu bardziej profesjonalnych ³¹czników...",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Mo¿e dlatego, ¿e jestem najlepszy? Tak czy inaczej wszyscy jesteœmy\nwdziêczni za wasze bojowe poœwiêcenie. Wracajcie do domu!",
+		},
+	],
+	"winDialogueSequencesB": [
+		{
+			"character": "Zack",
+			"text": "Ciê¿ko mi to przyznaæ, ale chyba myli³em siê trochê co do ciebie.\nWygl¹da na to, ¿e mo¿na na tobie polegaæ.",
+		},{
+			"character": "Zack",
+			"text": "Przyjmij zatem moje przeprosiny za wczeœniejsze zachowanie\noraz wyrazy uznania wobec tego, czego dokona³aœ dzisiejszego dnia.\nBy³o ciê¿ko, ale sobie poradziliœmy.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jeœli mogê coœ zasugerowaæ, uwa¿am, ¿e powinniœcie siê uœciskaæ.\nWiecie, tak symbolicznie. Zgoda miêdzy Cyborgami a Mutantami...",
+		},{
+			"character": "Zack",
+			"text": "Nie przeginaj, panie zabawny ³¹czniku. Ciekawe, czy\nbêdzie tak zabawnie, jak porozsy³am wszystkim twoj¹ historiê\nwyszukiwania. I uprzedzaj¹c: nie, usuwanie jej nic ci nie da.",
+		},{
+			"character": "Zack",
+			"text": "JJak to siê dzieje, ¿e ze wszystkich ludzi na œwiecie do tak\nodpowiedzialnej roli wybrali w³aœnie ciebie?!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Mo¿e dlatego, ¿e jestem najlepszy? Tak czy inaczej wszyscy jesteœmy\nwdziêczni za wasze bojowe poœwiêcenie. Wracajcie do domu!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wracaj tam, kapitanie! Nie zostawiaj swojego partnera na pastwê\ntych ohydnych obcych!",
+		},
+	]
+}

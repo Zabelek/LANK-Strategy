@@ -1,0 +1,495 @@
+cities.png
+size: 3840, 6930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buildGreen
+  rotate: false
+  xy: 200, 0
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+buildOrange
+  rotate: false
+  xy: 0, 0
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+buildshadow
+  rotate: false
+  xy: 100, 0
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+cyborg_background_1lvl
+  rotate: false
+  xy: 0, 3690
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+cyborg_background_2lvl
+  rotate: false
+  xy: 1920, 3690
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+cyborg_background_3lvl
+  rotate: false
+  xy: 1920, 5850
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+cyborg_hq_1lvl
+  rotate: false
+  xy: 2870, 910
+  size: 390, 400
+  orig: 390, 400
+  offset: 0, 0
+  index: -1
+cyborg_hq_1lvl_hover
+  rotate: false
+  xy: 0, 1310
+  size: 390, 400
+  orig: 390, 400
+  offset: 0, 0
+  index: -1
+cyborg_hq_2lvl
+  rotate: false
+  xy: 690, 1310
+  size: 390, 400
+  orig: 390, 400
+  offset: 0, 0
+  index: -1
+cyborg_hq_2lvl_button
+  rotate: false
+  xy: 900, 200
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+cyborg_hq_2lvl_hover
+  rotate: false
+  xy: 2620, 1310
+  size: 390, 400
+  orig: 390, 400
+  offset: 0, 0
+  index: -1
+cyborg_hq_3lvl
+  rotate: false
+  xy: 2480, 910
+  size: 390, 400
+  orig: 390, 400
+  offset: 0, 0
+  index: -1
+cyborg_hq_3lvl_button
+  rotate: false
+  xy: 600, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+cyborg_hq_3lvl_hover
+  rotate: false
+  xy: 3260, 910
+  size: 390, 400
+  orig: 390, 400
+  offset: 0, 0
+  index: -1
+cyborg_intel
+  rotate: false
+  xy: 1940, 3090
+  size: 400, 520
+  orig: 400, 520
+  offset: 0, 0
+  index: -1
+cyborg_intel_button
+  rotate: false
+  xy: 1500, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+cyborg_intel_hover
+  rotate: false
+  xy: 1140, 3090
+  size: 400, 520
+  orig: 400, 520
+  offset: 0, 0
+  index: -1
+cyborg_intel_shadow
+  rotate: false
+  xy: 1540, 3090
+  size: 400, 520
+  orig: 400, 520
+  offset: 0, 0
+  index: -1
+cyborg_labtech
+  rotate: false
+  xy: 2320, 1310
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+cyborg_labtech_button
+  rotate: false
+  xy: 300, 200
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+cyborg_labtech_hover
+  rotate: false
+  xy: 390, 1310
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+cyborg_labwoj
+  rotate: false
+  xy: 2290, 200
+  size: 510, 300
+  orig: 510, 300
+  offset: 0, 0
+  index: -1
+cyborg_labwoj_button
+  rotate: false
+  xy: 1800, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+cyborg_labwoj_hover
+  rotate: false
+  xy: 1780, 200
+  size: 510, 300
+  orig: 510, 300
+  offset: 0, 0
+  index: -1
+cyborg_special
+  rotate: false
+  xy: 450, 550
+  size: 430, 350
+  orig: 430, 350
+  offset: 0, 0
+  index: -1
+cyborg_special_button
+  rotate: false
+  xy: 1200, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+cyborg_special_hover
+  rotate: false
+  xy: 2800, 200
+  size: 430, 350
+  orig: 430, 350
+  offset: 0, 0
+  index: -1
+cyborg_trainfac
+  rotate: false
+  xy: 2820, 2610
+  size: 350, 480
+  orig: 350, 480
+  offset: 0, 0
+  index: -1
+cyborg_trainfac_button
+  rotate: false
+  xy: 300, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+cyborg_trainfac_hover
+  rotate: false
+  xy: 3170, 2610
+  size: 350, 480
+  orig: 350, 480
+  offset: 0, 0
+  index: -1
+cyborg_wall
+  rotate: false
+  xy: 1240, 910
+  size: 1240, 400
+  orig: 1240, 400
+  offset: 0, 0
+  index: -1
+cyborg_wall_button
+  rotate: false
+  xy: 2700, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+cyborg_wall_hover
+  rotate: false
+  xy: 0, 910
+  size: 1240, 400
+  orig: 1240, 400
+  offset: 0, 0
+  index: -1
+cyborg_wall_shadow
+  rotate: false
+  xy: 1080, 1310
+  size: 1240, 400
+  orig: 1240, 400
+  offset: 0, 0
+  index: -1
+mutant_background_1lvl
+  rotate: false
+  xy: 0, 5850
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+mutant_background_2lvl
+  rotate: false
+  xy: 0, 4770
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+mutant_background_3lvl
+  rotate: false
+  xy: 1920, 4770
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+mutant_hq_1lvl
+  rotate: false
+  xy: 3080, 550
+  size: 440, 360
+  orig: 440, 360
+  offset: 0, 0
+  index: -1
+mutant_hq_1lvl_hover
+  rotate: false
+  xy: 1320, 550
+  size: 440, 360
+  orig: 440, 360
+  offset: 0, 0
+  index: -1
+mutant_hq_2lvl
+  rotate: false
+  xy: 880, 550
+  size: 440, 360
+  orig: 440, 360
+  offset: 0, 0
+  index: -1
+mutant_hq_2lvl_button
+  rotate: false
+  xy: 1200, 200
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+mutant_hq_2lvl_hover
+  rotate: false
+  xy: 1760, 550
+  size: 440, 360
+  orig: 440, 360
+  offset: 0, 0
+  index: -1
+mutant_hq_3lvl
+  rotate: false
+  xy: 2640, 550
+  size: 440, 360
+  orig: 440, 360
+  offset: 0, 0
+  index: -1
+mutant_hq_3lvl_button
+  rotate: false
+  xy: 0, 200
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+mutant_hq_3lvl_hover
+  rotate: false
+  xy: 2200, 550
+  size: 440, 360
+  orig: 440, 360
+  offset: 0, 0
+  index: -1
+mutant_intel
+  rotate: false
+  xy: 1500, 200
+  size: 140, 250
+  orig: 140, 250
+  offset: 0, 0
+  index: -1
+mutant_intel_button
+  rotate: false
+  xy: 3000, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+mutant_intel_hover
+  rotate: false
+  xy: 1640, 200
+  size: 140, 250
+  orig: 140, 250
+  offset: 0, 0
+  index: -1
+mutant_labtech
+  rotate: false
+  xy: 3230, 200
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+mutant_labtech_button
+  rotate: false
+  xy: 600, 200
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+mutant_labtech_hover
+  rotate: false
+  xy: 0, 550
+  size: 450, 350
+  orig: 450, 350
+  offset: 0, 0
+  index: -1
+mutant_labwoj
+  rotate: false
+  xy: 0, 3090
+  size: 570, 500
+  orig: 570, 500
+  offset: 0, 0
+  index: -1
+mutant_labwoj_button
+  rotate: false
+  xy: 2100, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+mutant_labwoj_hover
+  rotate: false
+  xy: 570, 3090
+  size: 570, 500
+  orig: 570, 500
+  offset: 0, 0
+  index: -1
+mutant_special
+  rotate: false
+  xy: 2340, 3090
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+mutant_special_b
+  rotate: false
+  xy: 3390, 3090
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+mutant_special_b_hover
+  rotate: false
+  xy: 2690, 3090
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+mutant_special_button
+  rotate: false
+  xy: 900, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+mutant_special_hover
+  rotate: false
+  xy: 3040, 3090
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+mutant_trainfac
+  rotate: false
+  xy: 3520, 2610
+  size: 300, 480
+  orig: 300, 480
+  offset: 0, 0
+  index: -1
+mutant_trainfac_b
+  rotate: false
+  xy: 2520, 2610
+  size: 300, 480
+  orig: 300, 480
+  offset: 0, 0
+  index: -1
+mutant_trainfac_b_hover
+  rotate: false
+  xy: 2220, 2610
+  size: 300, 480
+  orig: 300, 480
+  offset: 0, 0
+  index: -1
+mutant_trainfac_button
+  rotate: false
+  xy: 2400, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+mutant_trainfac_hover
+  rotate: false
+  xy: 1920, 2610
+  size: 300, 480
+  orig: 300, 480
+  offset: 0, 0
+  index: -1
+mutant_wall
+  rotate: false
+  xy: 1920, 2160
+  size: 1920, 450
+  orig: 1920, 450
+  offset: 0, 0
+  index: -1
+mutant_wall_b
+  rotate: false
+  xy: 0, 2160
+  size: 1920, 450
+  orig: 1920, 450
+  offset: 0, 0
+  index: -1
+mutant_wall_b_hover
+  rotate: false
+  xy: 1920, 1710
+  size: 1920, 450
+  orig: 1920, 450
+  offset: 0, 0
+  index: -1
+mutant_wall_button
+  rotate: false
+  xy: 3300, 0
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+mutant_wall_hover
+  rotate: false
+  xy: 0, 1710
+  size: 1920, 450
+  orig: 1920, 450
+  offset: 0, 0
+  index: -1
+mutant_wall_shadow
+  rotate: false
+  xy: 0, 2610
+  size: 1920, 450
+  orig: 1920, 450
+  offset: 0, 0
+  index: -1

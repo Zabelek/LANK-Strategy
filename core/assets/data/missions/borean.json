@@ -1,0 +1,29 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie mo¿e, bo ma misjê na Boreanie, idioto! Och, kapitanie,\nto nie by³o do ciebie. Mamy tu u nas nowych sta¿ystów i zadaj¹ zbyt du¿o pytañ...",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Do rzeczy. Ten uk³ad jest kluczowy do uzyskania dostêpu do\nregionu jednoro¿ca, dlatego od powodzenia twojej misji zale¿eæ mo¿e przysz³oœæ naszych operacji tutaj.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Twoja jednostka dowodz¹ca wyl¹duje w miejscu, gdzie wróg\nnie zd¹¿y³ siê jeszcze ufortyfikowaæ, dlatego mo¿esz wzglêdnie spokojnie\nzalo¿yæ bazê.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dobrze, teraz musze koñczyæ, bo sta¿yœci znów dobieraj¹ mi siê\ndo... Nie! Zostaw to, bo nas roz³¹... [polaczenie przerwane]",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doskonale, kapitanie! Podczas twoich zmagañ na Boreanie ja\nupora³em siê ze sta¿ystami. Kto by pomyœla³, ¿e stary sprawdzony\nsposób z zagonieniem ich do robienia kawy dla ca³ej placówki bêdzie tak skuteczny.",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie za³amuj siê, kapianie. Naprawa twojej jednostki\ndowodzenia to tylko kilkanaœcie milionów galaktycznych dolarów, nic straconego...",
+		},
+	]
+}

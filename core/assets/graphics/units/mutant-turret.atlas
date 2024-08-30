@@ -1,0 +1,75 @@
+mutant-turret.png
+size: 1750, 740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 350, 0
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+tower-bot
+  rotate: false
+  xy: 700, 0
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+tower-botleft
+  rotate: false
+  xy: 1050, 0
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+tower-botright
+  rotate: false
+  xy: 1400, 0
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+tower-left
+  rotate: false
+  xy: 0, 370
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+tower-right
+  rotate: false
+  xy: 350, 370
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+tower-top
+  rotate: false
+  xy: 700, 370
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+tower-topleft
+  rotate: false
+  xy: 1050, 370
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1
+tower-topright
+  rotate: false
+  xy: 1400, 370
+  size: 350, 370
+  orig: 350, 370
+  offset: 0, 0
+  index: -1

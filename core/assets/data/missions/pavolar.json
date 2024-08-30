@@ -1,0 +1,29 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, misja, która ciê czeka, nie nale¿y do naj³atwiejszych.\n,Teren, na którym przyjdzie ci walczyæ, jest otoczony górami ze wszystkich stron,\njednak nic nie bêdzie ciê os³aniaæ przed ogniem wroga.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Obcy w wale najpewniej u¿yj¹ broni dalekiego zasiêgu, dlatego\npotrzeba ci czegoœ, co bêdzie sobie w stanie z tym poradziæ.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Do twoich schematów do³¹czamy ciê¿kie czo³gi. S¹ wrêcz absurdalnie\ndrogie, jednak ich twardy pancerz i bardzo daleki zasiêg rekompensuj¹ to znakomicie.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "U¿yj ich do zwalczenia jednostek dalekosiê¿nych wroga i nie marnuj\nna to zbyt wiele czasu.",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doskonale, kapitanie. Ju¿ niewiele brakuje, a bêdziemy mieæ w garœci\nkolejny region galaktyki...",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Za ka¿dym razem ewakuacja staje siê coraz trudniejsza, kapitanie. Miej\nto proszê na uwadze nastêpnym razem, gdy przyjdzie ci do g³owy wbuchn¹æ...",
+		},
+	]
+}

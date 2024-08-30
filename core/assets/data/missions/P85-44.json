@@ -1,0 +1,46 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "Anna",
+			"text": "
+Tak bardzo, jak nienawidzê pomys³u przymierza miêdzy Mutantami\na Cyborgami, tak Ÿle czujê siê z tym, ¿e muszê prosiæ\nciê o przys³ugê.
+",
+		},{
+			"character": "Anna",
+			"text": "Nie mam jednak¿e wyboru. Rzecz tyczy siê ruin dawnego centrum\nszkoleniowego Cyborgów, które znajduj¹ siê na\njednej z planet tego uk³adu.",
+		},{
+			"character": "Anna",
+			"text": "Kiedy wróg wygrywa³ jedn¹ bitwê za druga w tym regionie, a\ncyborgi zmuszone by³y do ucieczki, a ci, którzy nie zd¹¿yli siê\newakuowaæ, zostali zamkniêci w kapsu³ach hibernacyjnych.",
+		},{
+			"character": "Anna",
+			"text": "Kapsu³y by³y ukryte g³êboko pod ziemi¹ i mia³y ustawiony zegar na\nprzes³anie sygna³u, jeœli ktokolwiek ze znajduj¹cych\nsiê tam ludzi by prze¿y³ tak d³ugo.",
+		},{
+			"character": "Anna",
+			"text": "Ten w³aœnie sygna³ zosta³ dziœ odebrany przez nasze czujniki.\nNie mo¿emy niestety za³o¿yæ, ¿e wróg ich nie odebra³\ni nie spróbuje zaatakowaæ podziemnych bunkrów.",
+		},{
+			"character": "Anna",
+			"text": "Musisz odwróciæ uwagê przeciwnika do czasu, a¿ wydobêdziemy\nstamt¹d te kapsu³y. Zrobi³abym to sama, ale mnie dowództwo\nprzydzieli³o do eskorty ekipy ratunkowej.",
+		},{
+			"character": "Anna",
+			"text": "Tego zadania nie powierzê byle komu, a twoja skutecznoœæ jest\nniepodwa¿alna. Rozpraw siê z wrogiem i miejmy to za sob¹.",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "Anna",
+			"text": "A niech mnie, uda³o ci siê. Osoby, które odnaleŸliœmy w kapsu³ach, to\nprzede wszystkim m³odzi rekruci. S¹ niezmiernie\nutalentowani, wiem to, bo sama swego czasu ich uczy³am.",
+		},{
+			"character": "Anna",
+			"text": "Nie s¹ jeszcze przygotowani, by sterowaæ Jednostk¹ Dowodz¹c¹,\ndlatego nie przydadz¹ ci siê na wiele,  ale dziêki\nnim przysz³oœæ armii Cyborgów rysuje siê w nieco jaœniejszych barwach.",
+		},{
+			"character": "Anna",
+			"text": "Nie przypuszcza³am, ¿e ktoœ taki jak ty bêdzie gotów zrobiæ dla nas\ncoœ podobnego. Mo¿e koniec koñców myli³am siê co do ciebie...",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "Anna",
+			"text": "Na co czekasz?! Wracaj tam i dokoñcz zadanie! Sama siê wszystkim nie zajmê!",
+		},
+	]
+}

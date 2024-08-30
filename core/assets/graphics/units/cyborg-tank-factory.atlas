@@ -1,0 +1,19 @@
+cyborg-tank-factory.png
+size: 1060, 340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 530, 340
+  orig: 530, 340
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 530, 0
+  size: 530, 340
+  orig: 530, 340
+  offset: 0, 0
+  index: -1

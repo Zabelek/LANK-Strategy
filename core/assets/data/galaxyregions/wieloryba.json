@@ -1,0 +1,11 @@
+{
+	"starSystems": [
+		{
+			"name": "Tebrest-15",
+			"resourcePotential": 132,
+			"xPos": 1286,
+			"yPos": 568,
+			"starsToUnlock": 0,
+		}
+	]
+}

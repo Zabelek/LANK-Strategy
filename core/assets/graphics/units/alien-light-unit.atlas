@@ -1,0 +1,61 @@
+alien-light-unit.png
+size: 1480, 145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+podw-bot
+  rotate: false
+  xy: 0, 0
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+podw-botleft
+  rotate: false
+  xy: 185, 0
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+podw-botright
+  rotate: false
+  xy: 370, 0
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+podw-left
+  rotate: false
+  xy: 555, 0
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+podw-right
+  rotate: false
+  xy: 740, 0
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+podw-top
+  rotate: false
+  xy: 925, 0
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+podw-topleft
+  rotate: false
+  xy: 1110, 0
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+podw-topright
+  rotate: false
+  xy: 1295, 0
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1

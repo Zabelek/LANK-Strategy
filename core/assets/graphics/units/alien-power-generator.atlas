@@ -1,0 +1,19 @@
+alien-power-generator.png
+size: 1220, 490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 610, 490
+  orig: 610, 490
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 610, 0
+  size: 610, 490
+  orig: 610, 490
+  offset: 0, 0
+  index: -1

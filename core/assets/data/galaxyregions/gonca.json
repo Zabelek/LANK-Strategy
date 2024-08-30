@@ -1,0 +1,11 @@
+{
+	"starSystems": [
+		{
+			"name": "GEN-CMP5",
+			"resourcePotential": 190,
+			"xPos": 410,
+			"yPos": 601,
+			"starsToUnlock": 0,
+		}
+	]
+}

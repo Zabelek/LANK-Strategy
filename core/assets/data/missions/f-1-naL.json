@@ -1,0 +1,253 @@
+{
+	"startDialogueSequencesA": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "
+To jest to, kapitanie. Ostatni bastion, miejsce, którêdy obcy przedostali\nsiê do naszej galaktyki. Wszystkie sygna³y pochodz¹ce z tego uk³adu umilk³y dawno temu.
+",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Znajduje siê tu najwiêksze skupisko sil wroga, jakie kiedykolwiek widzieliœmy.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie mo¿emy pozwoliæ, by nawet te och³apy sil wroga pozosta³y w\nnaszej galaktyce, bo czymkolwiek tu nie przybyli, w ka¿dej\nchwili mog¹ przez to wezwaæ posi³ki.",
+		},{
+			"character": "Kaite",
+			"text": "Choæ odbiliœmy pierwsza inwazje, wszyscy dobrze wiemy, jak blisko by³o,\nbyœmy przegrali. Nie mo¿emy dopuœciæ do tego,\nby rozpoczê³a siê druga.",
+		},{
+			"character": "Simon",
+			"text": "Kaite dobrze gada. Jeœli teraz zaatakowaliby nastêpni... nie pozbieraliœmy\nsiê jeszcze po tym, co zgotowali nam ich poprzednicy.",
+		},{
+			"character": "Simon",
+			"text": "Przegralibyœmy w parê miesiêcy, i to wed³ug tego ³askawszego\ndla nas scenariusza.",
+		},{
+			"character": "Anna",
+			"text": "Niezale¿nie od tego, co tam napotkasz, wiedz, ¿e masz wsparcie\nCyborgów, kapitanie. Osobiœcie dopilnuje, ¿eby wszystko posz³o zgodnie z planem. Reszta zale¿y od ciebie.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Przestañcie wszyscy! To nie publiczny kana³, ¿eby teraz ka¿dy mi siê\ntu wcina³! No... Tak czy siak, kapitanie, myœlê, ¿e wszystko zosta³o ju¿ powiedziane.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie pozostaje mi nic innego, ¿eby ten ostatni raz ¿yczyæ ci powodzenia.",
+		},
+	],
+	"startDialogueSequencesB": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "To jest to, kapitanie. Ostatni bastion, miejsce, ktoredy obcy przedostali\nsie do naszej galaktyki. Wszystkie syglaly pochodzace z tego ukladu umilkly dawno temu.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Znajduje siê tu najwiêksze skupisko sil wroga, jakie kiedykolwiek widzieliœmy.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie mo¿emy pozwoliæ, by nawet te och³apy sil wroga pozosta³y w\nnaszej galaktyce, bo czymkolwiek tu nie przybyli, w ka¿dej\nchwili mog¹ przez to wezwaæ posi³ki.",
+		},{
+			"character": "Anna",
+			"text": "Jeœli dojdzie do drugiej inwazji, losy Cyborgów i Mutantów bêd¹\nprzes¹dzone. Nie mamy szans oprzeæ siê drugiej inwazji,\ntym razem nawet przymierze nam nie pomo¿e!",
+		},{
+			"character": "Simon",
+			"text": "Anna dobrze gada. Jeœli teraz zaatakowaliby nastêpni... nie pozbieraliœmy\nsiê jeszcze po tym, co zgotowali nam ich poprzednicy.",
+		},{
+			"character": "Simon",
+			"text": "Przegralibyœmy w parê miesiêcy, i to wed³ug tego ³askawszego\ndla nas scenariusza.",
+		},{
+			"character": "Anna",
+			"text": "Choæ w przesz³oœci nie raz siê œcieraliœmy, teraz wiedz, ¿e masz po\nswojej stronie ca³y naród Cyborgów. Bêdziemy walczyæ\no wolnoœæ i ¿ycie do ostatniej kropli krwi!",
+		},{
+			"character": "Zack",
+			"text": "Nie mam zbyt wiele do zaoferowania, ale wiedz, ¿e jeœli\njakimœ cudem tam zginiesz, pamiêæ o tobie przetrwa w\nInternecie na wieki, dopilnujê tego osobiœcie.",
+		},{
+			"character": "Zack",
+			"text": "W³amiê siê na ka¿d¹ wiêksz¹ stronê i wszêdzie powstawiam\npieœni pochwalne na twoj¹ czeœæ. No ale mimo\nwszystko lepiej bêdzie, jak prze¿yjesz.",
+		},{
+			"character": "Zack",
+			"text": "Wiêc tego... No nie daj siê zabiæ. Wiesz, ile to roboty,\ntak hakowaæ wszystkie strony...?",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Przestañcie wszyscy! To nie publiczny kana³, ¿eby teraz ka¿dy mi siê\ntu wcina³! No... Tak czy siak, kapitanie, myœlê, ¿e wszystko zosta³o ju¿ powiedziane.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie pozostaje mi nic innego, ¿eby ten ostatni raz ¿yczyæ ci powodzenia.",
+		},
+	],
+	"winDialogueSequencesA": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jeœli raporty, które otrzymujemy z czujników twojej Jednostki\nDowodz¹cej s¹ prawdziwe...",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "... to oznacza, ¿e mamy do czynienia z jakimœ rodzajem portalu!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Fascynuj¹ce. Pozostali kapitanowie zostali ju¿ wys³ani na twoj¹ planetê.\nLada chwila powinni pojawiæ siê w zasiêgu wzroku.",
+		},{
+			"character": "Kaite",
+			"text": "Meldujê, ¿e jestem na pozycji. O cho... Kurza stopa! Co to jest!",
+		},{
+			"character": "Anna",
+			"text": "Mam to w zasiêgu sensorów optycznych. To... ogromne!",
+		},{
+			"character": "Simon",
+			"text": "A niech mnie, to najwiêkszy kawal technologii, jaki widzia³em w ¿yciu!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanowie, meldujcie, co widzicie!",
+		},{
+			"character": "Anna",
+			"text": "To jest dziesiêæ razy wiêksze od najwiêkszego okrêtu wroga!\nCoœ takiego by³oby bez problemu widaæ nie tylko z orbity!",
+		},{
+			"character": "Anna",
+			"text": "Nawet jakbym siedzia³a na ksiê¿ycu tej planety, mog³abym to\nwskazaæ palcem!",
+		},{
+			"character": "Kaite",
+			"text": "Mamy tu do czynienia z ogromnym tubowym obiektem, stworzonym\nca³kowicie z tajemniczej œwiec¹cej materii.",
+		},{
+			"character": "Kaite",
+			"text": "Poziom niebezpieczeñstwa, nieznany. Nie ulega w¹tpliwoœci, ¿e to\ncoœ stoi za inwazj¹. Widzê wiele podobieñstw w wygl¹dzie do pojazdów wroga.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Zrozumia³em. Ten obiekt skutecznie zag³usza wiêkszoœæ komunikacji.\nNie mamy dostêpu do ¿adnych czujników poza tymi\nz waszych Jednostek Dowodz¹cych.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dowództwo zaleca ponowne przeskanowanie obszaru pod\nk¹tem ewentualnych zagro¿eñ.",
+		},{
+			"character": "Simon",
+			"text": "Skanowanie negatywne. Nie mamy odczytów sygnatur wroga\nna ca³ej planecie. Jesteœmy tu zupe³nie...",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Co siê dzieje, kapitanie Simon? Macie jakieœ zak³ócenia?",
+		},{
+			"character": "Kaite",
+			"text": "Czujniki wykry³y wyraŸny skok energii pochodz¹cy z wnêtrza tego... czegoœ.",
+		},{
+			"character": "Anna",
+			"text": "Chrzaniæ czujniki! To coœ zaczê³o siê œwieciæ! Blask roœnie z sekundy na sekundê!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanowie! S³yszycie mnie?! *zak³ócenia* ...dcie, natychmiast...\n*zaklocenia*...adza ewakua... *zaklocenia*",
+		},{
+			"character": "Simon",
+			"text": "Chyba straciliœmy polaczenie z baz¹ dowodzenia. Co teraz robimy?",
+		},{
+			"character": "Anna",
+			"text": "Trzeba to zniszczyæ. Wszystkie zak³ócenia znikn¹, jeœli zniknie ich Ÿród³o.",
+		},{
+			"character": "Simon",
+			"text": "Zniszczyæ?! A niby jak! Najwiêksze atomówki, jakie mamy w arsenale,\nzaledwie zarysowa³yby wierzchnia pow³okê tego czegoœ!",
+		},{
+			"character": "Simon",
+			"text": "Te planetê nale¿y utopiæ w gwieŸdzie! Nie ma innego sposobu poradzenia\nsobie z tym problemem!",
+		},{
+			"character": "Anna",
+			"text": "S³uchajcie, ja... mam dziwne wra¿enie, ¿e...",
+		},{
+			"character": "Kaite",
+			"text": "To... to coœ zaczê³o promieniowaæ ogromn¹ sil¹ grawitacyjn¹. Jeszcze\nchwila, a nasze Jednostki Dowodz¹ce bêd¹ za s³abe, ¿eby siê temu oprzeæ.",
+		},{
+			"character": "Simon",
+			"text": "A niech to, to coœ zaczyna nas przyci¹gaæ! Daje pe³n¹ moc, ¿eby od tego\nodbiec, ale i tak siê do tego przybli¿am!",
+		},{
+			"character": "Anna",
+			"text": "Si³a grawitacyjna wzrasta. To... to roœnie...",
+		},{
+			"character": "Simon",
+			"text": "Za chwilê roztrzaskamy siê o wierzchni¹ warstwê. To koniec.\nPrzyjaciele, chcê tylko powiedzieæ, ¿e walka u waszego boku to by³ zaszczyt.",
+		},{
+			"character": "Kaite",
+			"text": "Czekajcie, co to...? Zobaczcie, czy to nie wygl¹da jak portal?",
+		},{
+			"character": "Anna",
+			"text": "Portal, który nas w³aœnie po³yka...",
+		},
+	],
+	"winDialogueSequencesB": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jeœli raporty, które otrzymujemy z czujników twojej Jednostki\nDowodz¹cej s¹ prawdziwe...",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "... to oznacza, ¿e mamy do czynienia z jakimœ rodzajem portalu!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Fascynuj¹ce. Pozostali kapitanowie zostali ju¿ wys³ani na twoj¹ planetê.\nLada chwila powinni pojawiæ siê w zasiêgu wzroku.",
+		},{
+			"character": "Anna",
+			"text": "Wszyscy jesteœmy na miejscu, rozdzieli³am ju¿ rozkazy.\nZa chwilê zabezpieczymy ten... Obiekt...",
+		},{
+			"character": "Anna",
+			"text": "Co... co to jest?!",
+		},{
+			"character": "Simon",
+			"text": "A niech mnie, to najwiêkszy kawal technologii, jaki widzia³em w ¿yciu!",
+		},{
+			"character": "Anna",
+			"text": "Meldujê, ¿e mamy przed sob¹ obiekt kszta³tu tuby o\nœrednicy wielu... wielu kilometrów. Jest ca³y pokryty technologi¹ wroga...",
+		},{
+			"character": "Anna",
+			"text": "Wygl¹da jak gigantyczna wersja jakiegoœ ich kr¹¿ownika albo...\nnie wiem... portal?",
+		},{
+			"character": "Zack",
+			"text": "Coœ takiego widaæ by by³o chyba nawet z ksiê¿yca, nie\nmówi¹c ju¿ o orbicie! Niesamowite!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Zrozumia³em. Ten obiekt skutecznie zag³usza wiêkszoœæ komunikacji.\nNie mamy dostêpu do ¿adnych czujników poza tymi\nz waszych Jednostek Dowodz¹cych.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dowództwo zaleca ponowne przeskanowanie obszaru\npod k¹tem ewentualnych zagro¿eñ.",
+		},{
+			"character": "Simon",
+			"text": "Skanowanie negatywne. Nie mamy odczytów sygnatur wroga\nna ca³ej planecie. Jesteœmy tu zupe³nie...",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Co siê dzieje, kapitanie Simon? Macie jakieœ zak³ócenia?",
+		},{
+			"character": "Zack",
+			"text": "Czujniki wykry³y wyraŸny skok energii pochodz¹cy z wnêtrza tego... czegoœ.",
+		},{
+			"character": "Anna",
+			"text": "Chrzaniæ czujniki! To coœ zaczê³o siê œwieciæ! Blask roœnie z sekundy na sekundê!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanowie! S³yszycie mnie! *zak³ócenia* ...dcie, natychmiast...\n*zak³ócenia*...adza ewakua *zak³ócenia*",
+		},{
+			"character": "Simon",
+			"text": "Chyba straciliœmy po³¹czenie z baza dowodzenia. Co teraz robimy? Zack?",
+		},{
+			"character": "Zack",
+			"text": "Przysiêgam, ¿e to nie ja! To zdecydowanie najmniej odpowiedni\nmoment na zgrywanie hakera! A niech mnie, to coœ trzeba zniszczyæ!",
+		},{
+			"character": "Simon",
+			"text": "Zniszczyæ?! A niby jak! Najwiêksze atomówki, jakie mamy w arsenale,\nzaledwie zarysowa³yby wierzchni¹ pow³okê tego czegoœ!",
+		},{
+			"character": "Simon",
+			"text": "Te planetê nale¿y utopiæ w gwieŸdzie! Nie ma innego sposobu poradzenia\nsobie z tym problemem!",
+		},{
+			"character": "Anna",
+			"text": "S³uchajcie, ja... mam dziwne odczyty. Ten obiekt zacz¹³ wytwarzaæ\nbardzo silne promieniowanie grawitacyjne.",
+		},{
+			"character": "Zack",
+			"text": "Wszystkie wskaŸniki s¹ poza skal¹! Nasze Jednostki Dowodz¹ce lada\nchwila przewróc¹ siê od tego przyci¹gania!",
+		},{
+			"character": "Simon",
+			"text": "A niech to, to coœ zaczyna nas przyci¹gaæ! Daje pe³n¹ moc, ¿eby\nod tego odbiec, ale i tak siê do tego przybli¿am!",
+		},{
+			"character": "Anna",
+			"text": "Si³a grawitacyjna wzrasta. To... to roœnie...",
+		},{
+			"character": "Simon",
+			"text": "Za chwilê roztrzaskamy siê o wierzchni¹ warstwê. To koniec. Przyjaciele,\nchcê tylko powiedzieæ, ¿e walka u waszego boku to by³ zaszczyt.",
+		},{
+			"character": "Zack",
+			"text": "Robiê, co mogê, ¿eby to zhakowaæ, ale systemy tego czegoœ kompletnie\nnie odpowiadaj¹... jeœli to w ogóle ma jakieœ systemy...",
+		},{
+			"character": "Anna",
+			"text": "Mieliœcie racjê, to coœ to portal. Portal, który za chwilê nas po³knie...",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nasze zapasy jednostek Dowodz¹cych s¹ wprawdzie du¿e,\nale nie mo¿emy wysadzaæ ich w takim tempie! Uwa¿aj nastêpnym razem, kapitanie!",
+		},
+	]
+}

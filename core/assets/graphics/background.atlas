@@ -1,0 +1,40 @@
+background.png
+size: 6288, 2476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+galaktyka
+  rotate: false
+  xy: 2200, 1238
+  size: 2200, 1238
+  orig: 2200, 1238
+  offset: 0, 0
+  index: -1
+galaktyka_mryganie1
+  rotate: false
+  xy: 0, 1238
+  size: 2200, 1238
+  orig: 2200, 1238
+  offset: 0, 0
+  index: -1
+galaktyka_mryganie2
+  rotate: false
+  xy: 4088, 0
+  size: 2200, 1238
+  orig: 2200, 1238
+  offset: 0, 0
+  index: -1
+galaktyka_mryganie3
+  rotate: false
+  xy: 1888, 0
+  size: 2200, 1238
+  orig: 2200, 1238
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 0, 0
+  size: 1888, 326
+  orig: 1888, 326
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, otrzymaliœmy ekscytuj¹ce wieœci z tego uk³adu.\nPonoæ na jednej z planet wróg przetrzymuje tak zwane\nplany dzidy laserowej.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie mamy pojêcia, co to mia³oby byæ, ale jedno jest pewne.\nPosiadaj¹c plany dzidy laserowej przybli¿ymy siê\no krok do zwyciêstwa.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Twoim zadaniem jest pozbycie siê nieprzyjaciela, by nasi naukowcy\nmogli rozpocz¹æ poszukiwania tego tajemniczego artefaktu.",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Gratulacje, kapitanie! Dziêki tobie plany dzidy laserowej s¹ teraz w\ndobrych rêkach! Co zaskakuj¹ce, wed³ug tych planów\nto wcale nie wygl¹da jak dzida...",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie mo¿emy pozwoliæ, ¿eby wróg by³ w posiadaniu planów dzidy\nlaserowej! Wracaj tam, kapitanie!",
+		},
+	]
+}

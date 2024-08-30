@@ -1,0 +1,96 @@
+missions.png
+size: 3840, 1620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back-button-cyborg
+  rotate: false
+  xy: 1261, 0
+  size: 293, 178
+  orig: 293, 178
+  offset: 0, 0
+  index: -1
+back-button-mutant
+  rotate: false
+  xy: 968, 0
+  size: 293, 178
+  orig: 293, 178
+  offset: 0, 0
+  index: -1
+cyborg-panel
+  rotate: false
+  xy: 1920, 540
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+destiny-choice-background
+  rotate: false
+  xy: 2848, 0
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+destiny-choice-kaite-selected
+  rotate: false
+  xy: 1554, 0
+  size: 308, 470
+  orig: 308, 470
+  offset: 0, 0
+  index: -1
+destiny-choice-kaite
+  rotate: false
+  xy: 1862, 0
+  size: 308, 470
+  orig: 308, 470
+  offset: 0, 0
+  index: -1
+destiny-choice-zack-selected
+  rotate: false
+  xy: 2509, 0
+  size: 339, 464
+  orig: 339, 464
+  offset: 0, 0
+  index: -1
+destiny-choice-zack
+  rotate: false
+  xy: 2170, 0
+  size: 339, 464
+  orig: 339, 464
+  offset: 0, 0
+  index: -1
+mutant-panel
+  rotate: false
+  xy: 0, 540
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+next-button-cyborg
+  rotate: false
+  xy: 0, 0
+  size: 191, 193
+  orig: 191, 193
+  offset: 0, 0
+  index: -1
+next-button-mutant
+  rotate: false
+  xy: 191, 0
+  size: 191, 193
+  orig: 191, 193
+  offset: 0, 0
+  index: -1
+start-button-cyborg
+  rotate: false
+  xy: 382, 0
+  size: 293, 178
+  orig: 293, 178
+  offset: 0, 0
+  index: -1
+start-button-mutant
+  rotate: false
+  xy: 675, 0
+  size: 293, 178
+  orig: 293, 178
+  offset: 0, 0
+  index: -1

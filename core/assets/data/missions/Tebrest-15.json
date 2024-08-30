@@ -1,0 +1,23 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, w tym uk³adzie nie ma nic poza oddzia³ami wroga.\nTym razem nie ratujemy ¿adnych zaka³dników, nie odbijamy\nwa¿nych artefaktów ani nic z tych rzeczy.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Po prostu polec tam, zrób porz¹dek i wracaj prêdko. Nie mo¿na\npozwoliæ, ¿eby choæ jeden obcy osta³ siê w naszej galaktyce.",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doskonale, kapitanie. Wierzyliœmy, ¿e dasz sobie rade.",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Miej proszê na wzglêdzie to, ¿e za ka¿dym razem twoja ewakuacja\nz pola bitwy jest coraz trudniejsza...",
+		},
+	]
+}

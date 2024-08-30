@@ -1,0 +1,11 @@
+{
+	"starSystems": [
+		{
+			"name": "riarinn",
+			"resourcePotential": 205,
+			"xPos": 1386,
+			"yPos": 380,
+			"starsToUnlock": 0,
+		}
+	]
+}

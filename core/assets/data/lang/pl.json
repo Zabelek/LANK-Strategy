@@ -1,0 +1,362 @@
+{
+"string":[{
+	"key": "loadGameButtonText"
+	"value": "WCZYTAJ GR "},{
+	"key": "saveGameButtonText"
+	"value": "ZAPISZ GR "},{
+	"key": "showRegionsButtonText"
+	"value": "POKAØ REGIONY"},{
+	"key": "hintsLabekDefaultText"
+	"value": "podpowiedzi"},{
+	"key": "dataLoadErrorMessage"
+	"value": "Wystπpi≥ b≥πd w ≥adowaniu danych.\nSprawdü pliki i uruchom grÍ ponownie!"},{
+	"key": "firstTutorialMessage"
+	"value": "Aby rozpoczπÊ przygodÍ,\nkliknij na region galaktyki"},{
+	"key": "hintsLabelOfficerWindowText"
+	"value": "Okno pomocniczych oficerÛw.\nKliknij, aby podejrzeÊ ich ststystyki"},{
+	"key": "hintsLabelTitaniumText"
+	"value": "iloúÊ dostÍpnego tytanu"},{
+	"key": "hintsLabelGoldText"
+	"value": "iloúÊ dostÍpnego z≥ota"},{
+	"key": "hintsLabelPetroleumText"
+	"value": "iloúÊ dostÍpnej ropy naftowej"},{
+	"key": "hintsLabelUraniumText"
+	"value": "iloúÊ dostÍpnego uranu"},{
+	"key": "hintsLabelCitiesPanelText"
+	"value": "iloúÊ posiadanych miast"},{
+	"key": "hintsLabelRegionAccessDenied"
+	"value": "\ndostÍp na razie zablokowany!"},{
+	"key": "hintsLabelRegionEnemyState"
+	"value": "\nterytorium zagarniÍte przez wroga!"},{
+	"key": "hintsLabelRegionAllyState"
+	"value": "\nTwoje terytorium!"},{
+	"key": "siegeReportInRegion"
+	"value": "W regionie "},{
+	"key": "siegeReportStarSystem"
+	"value": " uk≥ad gwiezdny "},{
+	"key": "siegeReportStarSystem1"
+	"value": ", w uk≥adzie gwiezdnym "},{
+	"key": "siegeReportNoSieges"
+	"value": "Brak oblÍøeÒ na chwilÍ obecnπ!"},{
+	"key": "siegeReportSiegeNoDefender"
+	"value": "\njest oblÍøony i brak mu obroÒcy!\n"},{
+	"key": "siegeReportSiegeDefender"
+	"value": "\njest oblÍøony! "},{
+	"key": "siegeReportSiegeDefender1"
+	"value": " walczy o stolicÍ g≥Ûwnej planety!\n"},{
+	"key": "siegeReportEnemySpoted"
+	"value": "\ndostrzeøono wroga! Trzeba wys≥aÊ tam obroÒcÍ!\n"},{
+	"key": "siegeReportDefenderPrepare"
+	"value": " przygotowuje fortyfikacje!\n"},{
+	"key": "siegeReportDefenderSuccess"
+	"value": ", uda≥o siÍ obroniÊ uk≥ad "},{
+	"key": "siegeReportDefenderSuccess1"
+	"value": " wraca do bazy!\n"},{
+	"key": "siegeReportCityLose"
+	"value": ", stolica uk≥adu "},{
+	"key": "siegeReportCityLose1"
+	"value": " pad≥a!\n"},{
+	"key": "siegeReportCityLose2"
+	"value": " ucieka z pola bitwy!\n"},{
+	"key": "endMessage"
+	"value": "Gratulacje, uda≥o Ci siÍ przejúÊ ca≥π grÍ!\nSequel powstanie w wypadku, gdybym kiedyú jakimú cudem\nzdecydowa≥ siÍ na zrobienie studiÛw magisterskich.\nDziÍkujÍ z ca≥ego serca wszystkim, ktÛøy pomagali\nmi testowaÊ tπ grÍ. ChcÍ rÛwnieø podziÍkowaÊ\nmojemu promotorowi, doktorowi Marcinowi Szczegielniakowi.\nGdyby nie Wy, powstanie tej gry z pewnoúciπ\nnie by≥oby moøliwe.\n\nZ wyrazami wdziÍcznoúci\nZbigniew Zabel."},{
+	"key": "backToGalaxyView"
+	"value": "POWR”T"},{
+	"key": "clickStarSystemIcon"
+	"value": "Kliknij ikonÍ systemu gwiezdnego!"},{
+	"key": "cityBuildingTutorialPopup"
+	"value": "Wybierz system gwiezdny i kliknij\n\"buduj\" aby zbudowaÊ pierwsze miasto!"},{
+	"key": "wallInfoText"
+	"value": "Umocnienia Obronne zwiÍkszajπ potencja≥\nobronny Twojego miasta. W przypadku\nataku obcych miasto z murami bÍdzie\n broniÊ siÍ d≥Ûøej, a oficer broniπcy dostanie\n bonusowπ obronÍ na czas odbijania."},{
+	"key": "intelInfoText"
+	"value": "System Informacyjny umoøliwia szybsze\nwychwytywanie jednostek wroga, dziÍki\nczemu jesteú ostrzeøony na kilka\ntur przed atakiem. Dodatkowo podejmuje\nsiÍ tu dzia≥ania maskujπce sygna≥y z\nmiasta, dziÍki czemu ryzyko inwazji\n jest mniejsze."},{
+	"key": "trainFacInfoText"
+	"value": "Kaøda wybudowana przez Ciebie\nplacÛwka szkoleniowa daje bonus do ataku\ni obrony wszystkim oficerom pomocniczym.\nW przypadku zajÍcia miasta z placÛwkπ,\nbonus znika."},{
+	"key": "specialPlaceInfoText"
+	"value": "miejsce specjalne"},{
+	"key": "specialPlaceMutantInfoText"
+	"value": "Centrum Modyfikacji Genetycznych zwiÍksza\nspryt oficerÛw Mutantow. Jeúli i Ty\njesteú jednym z nich, punkty pancerza twojej\n Jednostki Dowodzπcej zwiÍkszajπ siÍ\npodczas misji."},{
+	"key": "specialPlaceCyborgInfoText"
+	"value": "Centrum WszczepÛw Cybernetycznych zwiÍksza\nspryt oficerÛw CyborgÛw. Jeúli i Ty\njesteú jednym z nich, punkty pancerza Twojej\n Jednostki Dowodzπcej zwiÍkszajπ siÍ\npodczas misji."},{
+	"key": "hQ1Title"
+	"value": "Ratusz"},{
+	"key": "hQ2Title"
+	"value": "Wielki Ratusz"},{
+	"key": "wallTitle"
+	"value": "Umocnienia Obronne"},{
+	"key": "intelTitle"
+	"value": "System Wywiadowczy"},{
+	"key": "labTexgTitle"
+	"value": "Laboratorium Techniczne"},{
+	"key": "labWojTitle"
+	"value": "Laboratorium Wojskowe"},{
+	"key": "trainFacTitle"
+	"value": "PlacÛwka Szkoleniowa"},{
+	"key": "modGenTitle"
+	"value": "Centrum Mod. Gen."},{
+	"key": "modCybTitle"
+	"value": "Centrum Wszcz. Cyber."},{
+	"key": "cityUpgradeRequest1"
+	"value": "Czy chcesz rozbudowaÊ miasto?\nkoszt to: 120 tytanu, 40 ropy,\n10 uranu i 100 z≥ota."},{
+	"key": "cityUpgradeRequest2"
+	"value": "Czy chcesz rozbudowaÊ miasto?\nkoszt to: 150 tytanu, 60 ropy,\n20 uranu i 150 z≥ota."},{
+	"key": "cityUpgradeInfo"
+	"value": "Rozbudowa miasta zwiÍksza\nprzychÛd surowcÛw na turÍ"},{
+	"key": "wallBuildRequest"
+	"value": "Czy chcesz wybudowaÊ\nUmocnienia Obronne?\nkoszt to: 70 tytanu i 20 z≥ota."},{
+	"key": "wallBuildInfo"
+	"value": "Budowa umocnieÒ pozwala miastu\nd≥uøej broniÊ siÍ przed atakiem"},{
+	"key": "intelBuildRequest"
+	"value": "Czy chcesz wybudowaÊ\nSystem Wywiadowczy?\nkoszt to: 30 tytanu, 40 uranu\ni 70 z≥ota."},{
+	"key": "intelBuildInfo"
+	"value": "System wywiadowczy ostrzega przed\natakiem oraz zmniejsza jego ryzyko"},{
+	"key": "labTechBuildRequest"
+	"value": "Czy chcesz wybudowaÊ\nLaboratorium Techniczne?\nkoszt to: 30 tytanu, 50 ropy\ni 50 uranu."},{
+	"key": "labTechBuildInfo"
+	"value": "Laboratorium Techniczne pozwala\nulepszaÊ statystyki\nbotÛw i czo≥gÛw"},{
+	"key": "labWojBuildRequest"
+	"value": "Czy chcesz wybudowaÊ\nLaboratorium Wojskowe?\nkoszt to: 20 tytanu, 60 ropy\ni 50 uranu."},{
+	"key": "labWojBuildInfo"
+	"value": "Laboratorium wojskowe pozwala\nulepszaÊ statystyki\nJednostki Dowodzπcej"},{
+	"key": "trainFacBuildRequest"
+	"value": "Czy chcesz wybudowaÊ\nPlacÛwkÍ Szkolenoiwπ?\nkoszt to: 50 tytanu, 60 uranu\ni 20 z≥ota."},{
+	"key": "trainFacBuildInfo"
+	"value": "PlacÛwka szkoleniowa zwiÍksza\nstatystyki oficerÛw pomocniczych."},{
+	"key": "modGenBuildRequest"
+	"value": "Czy chcesz wybudowaÊ\nCentrum Modyfikacji\nGenetycznych? koszt to: \n60 uranu i 80 ropy"},{
+	"key": "modCyberBuildRequest"
+	"value": "Czy chcesz wybudowaÊ\nCentrum WszczepÛw\nCybernetycznych? koszt to: \n60 uranu i 80 ropy"},{
+	"key": "specialBuildInfo"
+	"value": "Budynek specjalny zwiÍksza\nstatystyki przedstawicieli\nrasy miasta"},{
+	"key": "movSpeedResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\npredkoúciπ czo≥gÛw i botÛw?\nkoszt to: 70 ropy, i 30 z≥ota."},{
+	"key": "movSpeedResInfo"
+	"value": "Ulepsza prÍdkoúÊ czo≥gÛw i botÛw"},{
+	"key": "repSpeedResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nprÍdkoúciπ naprawiania?\nkoszt to: 60 ropy, i 50 uranu."},{
+	"key": "repSpeedResInfo"
+	"value": "zwiÍksza tempo napaprawiania\nprzez boty cyborgÛw"},{
+	"key": "attackSpeedResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nszybkostrzelnoúciπ botÛw?\nkoszt to: 30 ropy, i 80 z≥ota."},{
+	"key": "attackSpeedResInfo"
+	"value": "zwiÍksza tempo strzelania botÛw"},{
+	"key": "tankDamageResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nuszkodzeniami czo≥gÛw?\nkoszt to: 20 tytanu,\n 40 uranu i 70 z≥ota."},{
+	"key": "tankDamageResInfo"
+	"value": "zwiÍksza uszkodzenia zadawane\nprzez czo≥gi"},{
+	"key": "armorResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\npancerzem botÛw i czo≥gÛw?\nkoszt to: 30 tytanu, i 80 z≥ota."},{
+	"key": "armorResInfo"
+	"value": "zwiÍksza iloúÊ pancerza\nbotÛw i czo≥gÛw"},{
+	"key": "bulletSpeedResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nszybkoúciπ pociskÛw botÛw?\nkoszt to: 70 ropy."},{
+	"key": "bulletSpeedResInfo"
+	"value": "ZwiÍksza szybkoúÊ, z jakπ lecπ\npociski wystrzelone przez boty"},{
+	"key": "tankRangeResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nzasiÍgiem czo≥gÛw?\nkoszt to: 80 uranu."},{
+	"key": "tankRangeResInfo"
+	"value": "zwiÍksza zasiÍg strza≥u czolgÛw"},{
+	"key": "armorRegenResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nregeneracjπ pancerza?\nkoszt to: 120 uranu."},{
+	"key": "armorRegenResInfo"
+	"value": "zwiÍksza regeneracjÍ jednostek\nmutantÛw"},{
+	"key": "jdBuildArmResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nramieniem budujπcym\nJednostki Dowodzπcej?\nkoszt to: 100 uranu i 50 z≥ota."},{
+	"key": "jdBuildArmResCyborgInfo"
+	"value": "zwiÍksza szybkoúÊ budowania\n i tempo naprawy przez\nJednostkÍ Dowodzπcπ"},{
+	"key": "jdShootArmResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nramieniem strzelajπcym\nJednostki Dowodzacej?\nkoszt to: 60 ropy i 80 uranu."},{
+	"key": "jdShootArmResCyborgInfo"
+	"value": "ZwiÍksza szybkostrzelnoúÊ i prÍdkoúÊ\nporuszania siÍ Jednostki Dowodzπcej"},{
+	"key": "jdBodyResRequest"
+	"value": "Czy chcesz zleciÊ badania nad\nmagazynem zasobÛw\nJednostki Dowodzπcej?\nkoszt to: 50 tytanu,\n50 ropy i 50 uranu."},{
+	"key": "jdBodyResInfo"
+	"value": "ZwiÍksza zapas energii i metalu,\njaki moøe pomieúciÊ\nJednostka Dowodzπca"},{
+	"key": "jdBuildArmResMutantInfo"
+	"value": "ZwiÍksza szybkoúÊ budowania\ni regeneracjÍ pancerza\nJednostki Dowodzπcej"},{
+	"key": "jdShootArmResMutantInfo"
+	"value": "ZwiÍksza zasiÍg strza≥u\ni uszkodzenia zadawawne przez\nJednostkÍ Dowodzπcπ"},{
+	"key": "areYouSure"
+	"value": "czy na pewno?"},{
+	"key": "build"
+	"value": "Zbuduj"},{
+	"key": "mapFirsTutorialPopup"
+	"value": "Aby zaznaczyÊ kilka jednostek na raz,\nprzytrzymaj Ctrl i klikaj na nie po\nkolei lewym przyciskiem myszy."},{
+	"key": "zackInfoText"
+	"value": "Zack nosi miano najlepszego\nhakera w galaktyce. Przed\natakiem Obcych listy goÒcze\nz jego podobiznπ wisia≥y\ndos≥ownie wszÍdzie. Do ≥ask\nSojuszu wkrad≥ siÍ, gdy\nukrad≥ wojskowπ JednostkÍ\nDowodzπcπ i rozbi≥ spory\noddzia≥ najeüdücÛw, ratujπc\ntym samym ponad milionowe\nmiasto przed niehybnπ\nzag≥adπ. Zgodzi≥ siÍ wstπpiÊ\nw szeregi armii CyborgÛw\nzamiast odsiedzenia wyroku,\nchoÊ krπøπ plotki, øe nie\nma w mÛzgu nawet odrobiny\ncybernetyczych ulepszeÒ.\nJedyne, co jego cia≥o posiada\nsztuczne, to ga≥ki oczne."},{
+	"key": "kaiteInfoText"
+	"value": "Kaite to najskuteczniejsza\nkapitan, jaka s≥uøy w\noddzia≥ach armii mutantÛw.\nJeszcze za czasÛw wojny z\nImperium CyborgÛw zdo≥a≥a\nodnieúÊ dziesiπtki zwyciÍstw,\nprzez co nawet wyøsi stopniem\nod niej, gdy znajdujπa siÍ w jej\npobliøu, nie mogπ oprzeÊ siÍ\nodruchowi zasalutowania.\nPodczas inwazji Kaite rÛwnieø\nnie prÛønowa≥a. DziÍki jej\noperacjom lπdowym wiele miast\nzdo≥a≥o siÍ bezpiecznie\newakuowaÊ w g≥Íbsze rejony\nImperium. Co zrobi Kaite,\ngdy nie bÍdzie juø gdzie\newakuowaÊ tych wszystkich\nbezbronnych cywili...?"},{
+	"key": "accessBlockedText"
+	"value": " DostÍp zablokowany!"},{
+	"key": "citySummaryTitle"
+	"value": "PODSUMOWANIE"},{
+	"key": "citySummaryAll"
+	"value": "OgÛlne: "},{
+	"key": "citySummaryCityCount"
+	"value": "Liczba Miast: "},{
+	"key": "citySummaryTitaniumOnTurn"
+	"value": "Wydob. tytanu na turÍ: "},{
+	"key": "citySummaryPetroleumOnTurn"
+	"value": "Wydob. ropy na turÍ: "},{
+	"key": "citySummaryUraniumOnTurn"
+	"value": "Wydob. uranu na turÍ: "},{
+	"key": "citySummaryGoldOnTurn"
+	"value": "Wydob. zlota na turÍ: "},{
+	"key": "citySummaryNormalUnitLabel"
+	"value": "Bonusy Zwyk≥ych jednostek: "},{
+	"key": "citySummaryUnitSpeed"
+	"value": "PrÍdkoúÊ: "},{
+	"key": "citySummaryUnitRepairSpeed"
+	"value": "SzybkoúÊ naprawy: "},{
+	"key": "citySummaryUnitShootSpeed"
+	"value": "Szybkostrzel. BotÛw: "},{
+	"key": "citySummaryTankDamage"
+	"value": "Obraøenia Czo≥gÛw: "},{
+	"key": "citySummaryUnitArmorRegen"
+	"value": "Regeneracja Pancerza: "},{
+	"key": "citySummaryUnitArmor"
+	"value": "Pancerz: "},{
+	"key": "citySummaryBotBulletSpeed"
+	"value": "Szybk. PociskÛw BotÛw: "},{
+	"key": "citySummaryTankRange"
+	"value": "ZasiÍg Strz. Czo≥gÛw: "},{
+	"key": "citySummaryCulabel"
+	"value": "Bonusy Jedn. Dowodzπcych: "},{
+	"key": "citySummaryCuBuildSpeed"
+	"value": "PrÍdkoúÊ Budowania: "},{
+	"key": "citySummaryCuRepairSpeed"
+	"value": "Tempo Naprawy: "},{
+	"key": "citySummaryCuStorage"
+	"value": "PojemnoúÊ ZasobÛw: "},{
+	"key": "citySummaryCuShootSpeed"
+	"value": "SzybkostrzelnoúÊ: "},{
+	"key": "citySummaryCuSpeed"
+	"value": "PrÍdkoúÊ: "},{
+	"key": "citySummaryCuRegen"
+	"value": "Regeneracja Pancerza: "},{
+	"key": "citySummaryCuDamage"
+	"value": "Obraøenia: "},{
+	"key": "citySummaryCuRange"
+	"value": "ZasiÍg Strza≥u: "},{
+	"key": "citySummaryCuArmor"
+	"value": "Pancerz: "},{
+	"key": "citySummaryOfficersLabel"
+	"value": "Oficerowie pomocniczy: "},{
+	"key": "citySummaryOfAdAttack"
+	"value": "Bonus Ataku: "},{
+	"key": "citySummaryOfAdArmor"
+	"value": "Bonus Obrony: "},{
+	"key": "citySummaryOdCybFlair"
+	"value": "Bonus Sprytu CyborgÛw: "},{
+	"key": "citySummaryOfMutFlair"
+	"value": "Bonus Sprytu MutnatÛw: "},{
+	"key": "citySummarySiegeReportLabel"
+	"value": "RAPORTY Z OBL ØE—"},{
+	"key": "citySummaryAlienAttacksInfoLabel"
+	"value": "Wiadomoúci o atakach obcych"},{
+	"key": "buildCityInStarSystem"
+	"value": "Zbuduj miasto w "},{
+	"key": "cityBuildWindowCityName"
+	"value": "NAZWA MIASTA"},{
+	"key": "cityBuildWindowBuildCityIn"
+	"value": "Zbuduj miasto w "},{
+	"key": "cityBuildWindowNotEnoughResources"
+	"value": "Posiadasz zbyt ma≥o surowcÛw!"},{
+	"key": "cityBuildWindowBuildCost"
+	"value": "Koszt budowy miasta to:\n100 tytanu, 30 ropy,\n20 uranu i 50 z≥ota"},{
+	"key": "secondLeaveRequest"
+	"value": "Czy na pewno chcesz wyjúÊ?"},{
+	"key": "showParametersRequest"
+	"value": "POKAØ PARAMETRY"},{
+	"key": "metalTitle"
+	"value": "Metal:"},{
+	"key": "energyTitle"
+	"value": "Energia:"},{
+	"key": "armorTitle"
+	"value": "PANCERZ:\n"},{
+	"key": "armorparameterTitle"
+	"value": "\nPancerz: "},{
+	"key": "buildTimeParameterTitle"
+	"value": "\nCzas Budowy: "},{
+	"key": "metalCostParameterTitle"
+	"value": "\nKoszt Metalu: "},{
+	"key": "energyCostParameterTitle"
+	"value": "\nKoszt Energii: "},{
+	"key": "armorSpecTitle"
+	"value": "Pancerz:"},{
+	"key": "damageSpecTitle"
+	"value": "Obraøenia:"},{
+	"key": "rangeSpecTitle"
+	"value": "ZasiÍg:"},{
+	"key": "shootSpeedSpecTitle"
+	"value": "SzybkostrzelnoúÊ:"},{
+	"key": "bulletSpeedSpecTitle"
+	"value": "PredkoúÊ pociskÛw:"},{
+	"key": "armorRegenSpecTitle"
+	"value": "Regeneracja Panc.:"},{
+	"key": "repairSpeedSpecTitle"
+	"value": "SzybkoúÊ naprawiania:"},{
+	"key": "movSpeedSpecTitle"
+	"value": "SzybkoúÊ przemiesz.:"},{
+	"key": "ofWindowlocked"
+	"value": "NiedostÍpny"},{
+	"key": "ofWindowLevel"
+	"value": "POZIOM:"},{
+	"key": "ofWindowPoints"
+	"value": "PKT:"},{
+	"key": "ofWindowAttack"
+	"value": "ATAK:"},{
+	"key": "ofWindowDeffence"
+	"value": "OBRONA:"},{
+	"key": "ofWindowFlair"
+	"value": "SPRYT:"},{
+	"key": "saveWindowNewSave"
+	"value": "NOWY ZAPIS"},{
+	"key": "saveWindowSavename"
+	"value": "NAZWA ZAPISU"},{
+	"key": "saveWindowCreate"
+	"value": "UTW”RZ"},{
+	"key": "settingsWindowTitle"
+	"value": "USTAWIENIA"},{
+	"key": "settingsWindowLeaveGame"
+	"value": "WYJDè Z GRY"},{
+	"key": "settingsWindowMusic"
+	"value": "MUZYKA"},{
+	"key": "settingsWindowSounds"
+	"value": "DèWI KI"},{
+	"key": "settingsWindowShadows"
+	"value": "CIENIE"},{
+	"key": "settingsWindowRender"
+	"value": "RENDER JEDNOSTEK"},{
+	"key": "settingsWindowMid"
+	"value": "åREDNIO"},{
+	"key": "settingsWindowFar"
+	"value": "DALEKO"},{
+	"key": "settingsWindowVFar"
+	"value": "B. DALEKO"},{
+	"key": "settingsWindowVClose"
+	"value": "B. BLISKO"},{
+	"key": "settingsWindowClose"
+	"value": "BLISKO"},{
+	"key": "starWindowLand"
+	"value": "L•DUJ"},{
+	"key": "starWindowBuild"
+	"value": "BUDUJ"},{
+	"key": "starWindowEnemyTer"
+	"value": "TEREN WROGA"},{
+	"key": "starWindowSiegeActive"
+	"value": "TRWA OBL ØENIE!"},{
+	"key": "starWindowPlayerTer"
+	"value": "TEREN ODBITY"},{
+	"key": "starWindowEnemySeen"
+	"value": "WYKRYTO WROGA!"},{
+	"key": "starWindowSend"
+	"value": "WYåLIJ"},{
+	"key": "starWindowSiegeMessage"
+	"value": "TRWA OBL ØENIE!\nWYåLIJ OFICERA DO OBRONY MIASTA!"},{
+	"key": "starWindowEnemySeenMessage"
+	"value": "WYKRYTO WROGA W POBLIØU!\nWYåLIJ OFICERA, BY PRZYGOTOWA£ OBRON !"},{
+	"key": "starWindowDefSent"
+	"value": "JUØ WYS£A£Eå OBRO—C "},
+]
+}

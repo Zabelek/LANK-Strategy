@@ -1,0 +1,32 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Sprawa jest prosta, kapitanie. Polec na planetê z baz¹ wypadow¹ nieprzyjaciela,\nzasiej na niej ziarno demokracji i szybko wracaj.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jak siê pospieszysz, mo¿e za³apiesz siê jeszcze na pomoc przy papierkowej robocie.\nZabawne, stoimy na krawêdzi zag³ady, a z jakichœ powodów biurokracja\nma siê doskonale, jakby inwazja jej nie dotyczy³a.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Przepraszam, rozgada³em siê. Powodzenia kapitanie, jak zwykle\nwierzymy w ciebie i tak dalej...",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dobrze, ¿e uda³o ci siê to za³atwiæ tak szybko. Teraz prêdko do kwatery\ng³ównej, bo jeszcze ca³kiem sporo mi tu tych papierów zosta³o.",
+		},
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kto to widzia³. Od trzech wieków mamy dostêpne komputery, a wiêkszoœæ\ndokumentacji i tak jest drukowana...",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wychodzi chyba na to, ¿e sam bêdê musia³ to wszystko powype³niaæ, co? Nie\ntraæ czasu i wracaj tam najszybciej, jak siê da!",
+		},
+	]
+}

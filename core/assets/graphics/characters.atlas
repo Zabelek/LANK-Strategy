@@ -1,0 +1,68 @@
+characters.png
+size: 1841, 4000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anna-mission
+  rotate: false
+  xy: 0, 0
+  size: 1320, 800
+  orig: 1320, 800
+  offset: 0, 0
+  index: -1
+anna_profile
+  rotate: false
+  xy: 1320, 0
+  size: 521, 535
+  orig: 521, 535
+  offset: 0, 0
+  index: -1
+Kaite-mission
+  rotate: false
+  xy: 0, 800
+  size: 1320, 800
+  orig: 1320, 800
+  offset: 0, 0
+  index: -1
+kaite_profile
+  rotate: false
+  xy: 1320, 800
+  size: 521, 535
+  orig: 521, 535
+  offset: 0, 0
+  index: -1
+LacznikKwateryGlownej-mission
+  rotate: false
+  xy: 0, 1600
+  size: 1320, 800
+  orig: 1320, 800
+  offset: 0, 0
+  index: -1
+Simon-mission
+  rotate: false
+  xy: 0, 2400
+  size: 1320, 800
+  orig: 1320, 800
+  offset: 0, 0
+  index: -1
+simon_profile
+  rotate: false
+  xy: 1320, 2400
+  size: 521, 534
+  orig: 521, 534
+  offset: 0, 0
+  index: -1
+Zack-mission
+  rotate: false
+  xy: 0, 3200
+  size: 1320, 800
+  orig: 1320, 800
+  offset: 0, 0
+  index: -1
+zack_profile
+  rotate: false
+  xy: 1320, 3200
+  size: 521, 535
+  orig: 521, 535
+  offset: 0, 0
+  index: -1

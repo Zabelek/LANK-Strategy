@@ -1,0 +1,19 @@
+alien-heavy-unit-factory.png
+size: 1540, 440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 770, 440
+  orig: 770, 440
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 770, 0
+  size: 770, 440
+  orig: 770, 440
+  offset: 0, 0
+  index: -1

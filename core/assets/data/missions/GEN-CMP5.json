@@ -1,0 +1,26 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Uk³ady wroga upadaj¹ jeden po drugim! To jeden z naszych\nostatecznych ciosów, kapitanie! PoprowadŸ nas do\nzwyciêstwa i tym razem!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Niech po obcych nie pozostanie nawet œlad! B¹dŸ bezlitosny,\njak oni byli bezlitoœni dla miliardów rodzin z naszej galaktyki!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Do dzie³a, kapitanie! Powodzenia!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doskonale! Droga do ostatniego opanowanego przez wroga uk³adu\nstoi przed nami otworem! Pospieszmy siê i zakoñczmy\nt¹ wojnê raz na zawsze!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Pokonaniem ciebie wróg i tak odwleka tylko nieuniknione. Pozbieraj siê\ni wracaj tam, dokoñczyæ, co zosta³o rozpoczête!",
+		},
+	]
+}

@@ -1,0 +1,117 @@
+cyborg-light-tank.png
+size: 1400, 1240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+podw-bot
+  rotate: false
+  xy: 0, 0
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+podw-botleft
+  rotate: false
+  xy: 350, 0
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+podw-botright
+  rotate: false
+  xy: 700, 0
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+podw-left
+  rotate: false
+  xy: 1050, 0
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+podw-right
+  rotate: false
+  xy: 0, 310
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+podw-top
+  rotate: false
+  xy: 350, 310
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+podw-topleft
+  rotate: false
+  xy: 700, 310
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+podw-topright
+  rotate: false
+  xy: 1050, 310
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+tower-bot
+  rotate: false
+  xy: 0, 620
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+tower-botleft
+  rotate: false
+  xy: 350, 620
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+tower-botright
+  rotate: false
+  xy: 700, 620
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+tower-left
+  rotate: false
+  xy: 1050, 620
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+tower-right
+  rotate: false
+  xy: 0, 930
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+tower-top
+  rotate: false
+  xy: 350, 930
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+tower-topleft
+  rotate: false
+  xy: 700, 930
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+tower-topright
+  rotate: false
+  xy: 1050, 930
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1

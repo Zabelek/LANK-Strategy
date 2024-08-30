@@ -1,0 +1,26 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "Simon",
+			"text": "Czeœæ, to ja. Wiem, ¿e zawdziêczam ci ¿ycie i tak dalej, ale\n muszê ciê prosiæ o jeszcze jedn¹ przys³ugê. Moj kuzyn utkn¹³ w\ntym uk³adzie na malej planetce.",
+		},		{
+			"character": "Simon",
+			"text": "Przez zagêszczone dzia³ania wroga nie mo¿e siê stamt¹d wydostaæ. Zajmij\nsiê tymi œmierdz¹cymi kosmitami, by móg³ stamt¹d zwiaæ.",
+		},		{
+			"character": "Simon",
+			"text": "Przy okazji mo¿esz tez wyswobodziæ ca³y system gwiezdny, to ju¿ wedle uznania. Trzymaj siê!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "Simon",
+			"text": "Kuzyn przez okno w szalupie ratunkowej zdo³a³ zaobserwowaæ, jak walczysz.\nMówi³, ¿e by³o bardzo du¿o... wybuchów. Mnie tam podoba siê twój styl. Oby tak dalej!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "Simon",
+			"text": "No co jest? To nie mo¿e byæ takie trudne! Wracaj tam i spróbuj ponownie!",
+		},
+	]
+}

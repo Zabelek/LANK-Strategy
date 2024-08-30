@@ -1,0 +1,117 @@
+mutant-medium-tank.png
+size: 1960, 1440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+podw-bot
+  rotate: false
+  xy: 0, 0
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+podw-botleft
+  rotate: false
+  xy: 490, 0
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+podw-botright
+  rotate: false
+  xy: 980, 0
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+podw-left
+  rotate: false
+  xy: 1470, 0
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+podw-right
+  rotate: false
+  xy: 0, 360
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+podw-top
+  rotate: false
+  xy: 490, 360
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+podw-topleft
+  rotate: false
+  xy: 980, 360
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+podw-topright
+  rotate: false
+  xy: 1470, 360
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+tower-bot
+  rotate: false
+  xy: 0, 720
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+tower-botleft
+  rotate: false
+  xy: 490, 720
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+tower-botright
+  rotate: false
+  xy: 980, 720
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+tower-left
+  rotate: false
+  xy: 1470, 720
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+tower-right
+  rotate: false
+  xy: 0, 1080
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+tower-top
+  rotate: false
+  xy: 490, 1080
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+tower-topleft
+  rotate: false
+  xy: 980, 1080
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+tower-topright
+  rotate: false
+  xy: 1470, 1080
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1

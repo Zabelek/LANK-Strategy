@@ -1,0 +1,11 @@
+{
+	"starSystems": [
+		{
+			"name": "lua45-b",
+			"resourcePotential": 31,
+			"xPos": 510,
+			"yPos": 300,
+			"starsToUnlock": 0,
+		}
+	]
+}

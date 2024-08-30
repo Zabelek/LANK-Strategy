@@ -1,0 +1,47 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, przygotowujemy siê do odbicia tego uk³adu. Nasze oddzia³y\nzosta³y ju¿ rozmieszczone na wiêkszoœci planet i czekamy\nju¿ tylko na ciebie!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jak zwykle tobie przypada najtrudniejsze zadanie. Wysy³amy ciê na\nplanetê bêd¹c¹ kwater¹ g³ówn¹ wroga w tym sektorze.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Uporaj siê z ich Jednostk¹ Dowodz¹c¹, byœmy mogli przeprowadziæ\nbezpieczny desant i dokoñczyæ dzie³a.",
+		},{
+			"character": "Simon",
+			"text": "Spokojna g³owa, kapitanie. Za³atwiê swoj¹ planetê najwy¿ej w godzinê\ni zajmê siê zabezpieczaniem twoich pleców, bez obaw!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Gdyby kapitan Simon by³ równie mocny w  walce jak w gêbie,\nwys³alibyœmy go tutaj w pojedynke, by siê wszystkim zaj¹³.",
+		},{
+			"character": "Simon",
+			"text": "No i mo¿e trzeba by³o tak zrobiæ. Kapitan i reszta mogliby zaj¹æ\nsiê wa¿niejszymi problemami, a tak nie bêdê móg³ w pe³ni\nzaprezentowaæ moich licznych talentów...",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doœæ gadania, Simon. Zamiast tego weŸ siê w garœæ i dopilnuj,\n¿eby nie trzeba ciê by³o po wszystkim ratowaæ. Co do ciebie,\nkapitanie, powodzenia.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "O ciebie martwiê siê trochê mniej ni¿ o niego...",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "Simon",
+			"text": "No, moja praca tutaj skoñczona!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Ale to zas³uga kapitana. Ty w³aœciwie nic nie zrobi³eœ...",
+		},{
+			"character": "Simon",
+			"text": "*unosi pelerynê i odchodzi w chwale*",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "kapitanie, wracaj tam prêdko! Nie chce nawet myœleæ,\nco bêdzie, jeœli misja pozostanie w rêkach Simona!",
+		},
+	]
+}

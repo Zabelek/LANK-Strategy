@@ -1,0 +1,54 @@
+labwoj.png
+size: 2810, 1610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+labwoj-window-background
+  rotate: false
+  xy: 5, 5
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+labwoj-window-cyborg-body
+  rotate: false
+  xy: 705, 5
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+labwoj-window-cyborg-left-arm
+  rotate: false
+  xy: 1405, 5
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+labwoj-window-cyborg-right-arm
+  rotate: false
+  xy: 2105, 5
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+labwoj-window-mutant-body
+  rotate: false
+  xy: 5, 805
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+labwoj-window-mutant-left-arm
+  rotate: false
+  xy: 705, 805
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+labwoj-window-mutant-right-arm
+  rotate: false
+  xy: 1405, 805
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1

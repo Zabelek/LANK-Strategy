@@ -1,0 +1,53 @@
+{
+	"starSystems": [
+		{
+			"name": "Borean",
+			"resourcePotential": 114,
+			"xPos": 392,
+			"yPos": 402,
+			"starsToUnlock": 0,
+		},
+		{
+			"name": "AL-522-UN",
+			"resourcePotential": 77,
+			"xPos": 1597,
+			"yPos": 712,
+			"starsToUnlock": 1,
+		},
+		{
+			"name": "SOM11-UN",
+			"resourcePotential": 100,
+			"xPos": 1470,
+			"yPos": 436,
+			"starsToUnlock": 1,
+		},
+		{
+			"name": "Garm-74",
+			"resourcePotential": 208,
+			"xPos": 1126,
+			"yPos": 344,
+			"starsToUnlock": 3,
+		},
+		{
+			"name": "Bevra",
+			"resourcePotential": 19,
+			"xPos": 1024,
+			"yPos": 556,
+			"starsToUnlock": 3,
+		},
+{
+			"name": "Pavolar",
+			"resourcePotential": 148,
+			"xPos": 862,
+			"yPos": 847,
+			"starsToUnlock": 4,
+		},
+		{
+			"name": "Ub-3-UN",
+			"resourcePotential": 218,
+			"xPos": 486,
+			"yPos": 558,
+			"starsToUnlock": 6,
+		}
+	]
+}

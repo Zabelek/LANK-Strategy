@@ -1,0 +1,19 @@
+cyborg-robot-factory.png
+size: 920, 330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 460, 330
+  orig: 460, 330
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 460, 0
+  size: 460, 330
+  orig: 460, 330
+  offset: 0, 0
+  index: -1

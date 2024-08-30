@@ -1,0 +1,40 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dobrze, ¿e ju¿ jesteœ, kapitanie. Si³y wroga zaczê³y atakowaæ ostatni¹ woln¹\nplanetê tego uk³adu. To w³aœnie tutaj znajduje siê wiêkszoœæ\nukrytych bunkrów z uchodŸcami z innych regionów.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jest tylko kwesti¹ czasu, gdy wróg zlokalizuje bunkry, a wtedy miliony\nistnieñ przepadn¹. Czas, ¿eby ktoœ wykurzy³ si³y nieprzyjaciela z tego uk³adu.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Pamiêtaj o wybudowaniu elektrowni w pierwszej kolejnoœci, nastêpnie zadbaj\no sta³y dop³yw metalu, a nastêpnie skonstruuj fabrykê robotów.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dowództwo sugeruje u¿ycie œrednich botów w tej operacji. Jednostki te s¹\nniesamowicie szybkostrzelne i znacznie wytrzymalsze ni¿ lekkie boty.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Mimo swojej przewagi s¹ równoczeœnie doœæ drogie, dlatego dowództwo\nzaleca wspieranie ich oddzia³ami równie¿ lekkich botów.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Powodzenia, kapitanie. Liczymy na twój sukces!",
+		}
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dziêki tobie uchodŸcy s¹ bezpieczni i nied³ugo zapewne rozpoczniemy\nodbudowê tutejszych miast. Drugi raz nie pozwolimy tym kosmitom siê tu wedrzeæ!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Cale szczêœcie, ¿e uda³o siê ciebie w porê ewakuowaæ, kapitanie.\nNie przejmuj siê, odbijemy ten uk³ad kiedy indziej.",
+		},
+	]
+}

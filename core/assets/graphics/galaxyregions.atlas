@@ -1,0 +1,103 @@
+galaxyregions.png
+size: 1743, 981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+borubara
+  rotate: false
+  xy: 1169, 0
+  size: 353, 289
+  orig: 353, 289
+  offset: 0, 0
+  index: -1
+drapacza
+  rotate: false
+  xy: 350, 292
+  size: 224, 314
+  orig: 224, 314
+  offset: 0, 0
+  index: -1
+feniksa
+  rotate: false
+  xy: 860, 614
+  size: 225, 353
+  orig: 225, 353
+  offset: 0, 0
+  index: -1
+gawrona
+  rotate: false
+  xy: 0, 614
+  size: 486, 328
+  orig: 486, 328
+  offset: 0, 0
+  index: -1
+gonca
+  rotate: false
+  xy: 1522, 0
+  size: 182, 292
+  orig: 182, 292
+  offset: 0, 0
+  index: -1
+jednorozca
+  rotate: false
+  xy: 945, 292
+  size: 457, 321
+  orig: 457, 321
+  offset: 0, 0
+  index: -1
+lwa
+  rotate: false
+  xy: 574, 292
+  size: 371, 318
+  orig: 371, 318
+  offset: 0, 0
+  index: -1
+nemesis
+  rotate: false
+  xy: 1402, 292
+  size: 341, 322
+  orig: 341, 322
+  offset: 0, 0
+  index: -1
+padalca
+  rotate: false
+  xy: 779, 0
+  size: 390, 287
+  orig: 390, 287
+  offset: 0, 0
+  index: -1
+pokutnika
+  rotate: false
+  xy: 0, 292
+  size: 350, 296
+  orig: 350, 296
+  offset: 0, 0
+  index: -1
+ptasznika
+  rotate: false
+  xy: 1085, 614
+  size: 483, 367
+  orig: 483, 367
+  offset: 0, 0
+  index: -1
+szakala
+  rotate: false
+  xy: 486, 614
+  size: 374, 343
+  orig: 374, 343
+  offset: 0, 0
+  index: -1
+upiora
+  rotate: false
+  xy: 0, 0
+  size: 354, 202
+  orig: 354, 202
+  offset: 0, 0
+  index: -1
+wieloryba
+  rotate: false
+  xy: 354, 0
+  size: 425, 274
+  orig: 425, 274
+  offset: 0, 0
+  index: -1

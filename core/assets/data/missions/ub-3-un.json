@@ -1,0 +1,29 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, to jest to! Ostatnia planeta stoj¹ca nam na drodze do\nzagarniêcia tego regionu znajduje siê w uk³adzie Ub-3-UN.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Na tej planecie jest kanion, w którym znajduje siê baza\nwypadowa obcych. Twoim zadaniem bêdzie oczyœciæ drogê ze wszelkiego mackowatego plugastwa.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Produkcja okrêtów obcych zmarnowa³a wiêkszoœæ zasobów tej planety,\ndlatego nie licz na zbyt bogate z³o¿a metalu.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "To jest misja, któr¹ trzeba wykonaæ szybko, nim wróg obuduje siê po\ndrugiej stronie kanionu. Wysy³amy ciê natychmiast, powodzenia!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doskonale, kapitanie! Teraz, maj¹c w rêkach ju¿ dwa regiony,\nmamy odpowiednie zaplecze do wyswobodzenia reszty galaktyki!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "A niech to dunder œwiœnie, motyla noga i jeszcze straszliwsze\nprzeklenstwa! Nic nie szkodzi, kapitanie. Odbijemy ten uk³ad nastêpnym razem...",
+		},
+	]
+}

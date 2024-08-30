@@ -1,0 +1,75 @@
+mutant-power-generator.png
+size: 1500, 560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal-0
+  rotate: false
+  xy: 300, 0
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal-1
+  rotate: false
+  xy: 600, 0
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal-2
+  rotate: false
+  xy: 900, 0
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal-3
+  rotate: false
+  xy: 1200, 0
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal-4
+  rotate: false
+  xy: 0, 280
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal-5
+  rotate: false
+  xy: 300, 280
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal-6
+  rotate: false
+  xy: 600, 280
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal-7
+  rotate: false
+  xy: 900, 280
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 1200, 280
+  size: 300, 280
+  orig: 300, 280
+  offset: 0, 0
+  index: -1

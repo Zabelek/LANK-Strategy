@@ -1,0 +1,19 @@
+mutant-tank-factory.png
+size: 700, 310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 350, 0
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,46 @@
+{
+	"starSystems": [
+		{
+			"name": "Samira",
+			"resourcePotential": 228,
+			"xPos": 1232,
+			"yPos": 891,
+			"starsToUnlock": 1,
+		},
+		{
+			"name": "Wobler",
+			"resourcePotential": 171,
+			"xPos": 1333,
+			"yPos": 723,
+			"starsToUnlock": 0,
+		},
+		{
+			"name": "S04-118U",
+			"resourcePotential": 74,
+			"xPos": 927,
+			"yPos": 676,
+			"starsToUnlock": 2,
+		},
+		{
+			"name": "Rabler-11",
+			"resourcePotential": 160,
+			"xPos": 545,
+			"yPos": 398,
+			"starsToUnlock": 3,
+		},
+		{
+			"name": "sa-tu",
+			"resourcePotential": 240,
+			"xPos": 505,
+			"yPos": 824,
+			"starsToUnlock": 3,
+		},
+		{
+			"name": "SEM-PRAT448-0",
+			"resourcePotential": 13,
+			"xPos": 1698,
+			"yPos": 404,
+			"starsToUnlock": 5,
+		}
+	]
+}

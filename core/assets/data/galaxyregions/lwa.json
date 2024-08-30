@@ -1,0 +1,11 @@
+{
+	"starSystems": [
+		{
+			"name": "GM-OP3R",
+			"resourcePotential": 65,
+			"xPos": 709,
+			"yPos": 409,
+			"starsToUnlock": 0,
+		}
+	]
+}

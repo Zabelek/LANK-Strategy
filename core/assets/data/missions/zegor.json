@@ -1,0 +1,26 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "W uk³adzie, który dziœ odbijamy, znajduje siê ogromna stacja\nwojskowa, któr¹ utraciliœmy dawno temu.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie liczymy wprawdzie na odnalezienie tu jakichœ ocala³ych, ale za\nto wiemy o bardzo cennym sprzêcie, który zalega w magazynach tej bazy.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, pokonaj stra¿ników i odzyskaj dla nas ten sprzêt.\nJak zwykle, liczymy na ciebie.",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Brawo, kapitanie! Wiedzieliœmy, ¿e ci siê uda i tym razem.\nPrawie nikt w ciebie nie w¹tpi³!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Spokojnie, kapitanie. To nie jest tak, ¿e w tej misji ¿alezy od ciebie\nczyjeœ ¿ycie, przynajmniej nie na krótsz¹ metê.\nZbierz siê w sobie i wracaj, gdy zechcesz.",
+		},
+	]
+}

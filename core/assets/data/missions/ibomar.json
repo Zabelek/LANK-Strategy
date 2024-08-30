@@ -1,0 +1,92 @@
+{
+	"startDialogueSequencesA": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, otrzymaliœmy w³aœnie wa¿ne wieœci dotycz¹ce systemu\ngwiezdnego, który dziœ jest twoim celem!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Okaza³o siê, ¿e poœród sygna³ów od tutejszych uchodŸców istnieje \nsygna³ pochodz¹cy z Jednostki Dowodz¹cej nale¿¹cej do\nbardzo interesuj¹cej osobistoœci.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Gwiazda armii mutantów i ¿o³nierz o nieocenionej wartoœci bojowej,\nKaite Akswokrat zaginê³a w akcji parê ³adnych miesiêcy temu.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Co dziwniejsze, uk³ad, do którego ciê wysy³amy, nie by³ wcale\nmiejscem jej ostatniej misji.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Tymczasem sygna³y odbierane przez nasze czujniki s¹ wyraŸne.\nTo musi byæ jej Jednostka Dowodz¹ca.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Twoje zadanie to zabezpieczyæ teren, byœmy mogli jej poszukaæ.\nPowodzenia, kapitanie. Losy bardzo wa¿nego ¿o³nierza s¹\nteraz w twoich rêkach!",
+		},
+	],
+	"startDialogueSequencesB": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, mamy interesuj¹ce odczyty z tego uk³adu. Oprócz\nzwyczajowych sygna³ów SOS od uchodŸców odebraliœmy\npodejrzany odczyt.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Sygna³ pochodzi z Jednostki Dowodz¹cej Cyborgów, która przed\nmiesi¹cami zosta³a skradziona.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wiem, co sobie myœlisz, jak ktoœ móg³ ukraœæ ze sk³adów armii\nponad dwu kilotonow¹ maszynê i ujœæ przy tym ca³o.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Rzecz w tym, ¿e cz³owiek ten jest ponoæ najzdolniejszym hakerem\nw naszej galaktyce.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jego imiê i nazwisko, choæ nie mamy pewnoœci co do tego, czy s¹\nprawdziwe, to Zack Aciron. Nie musisz go zabijaæ,\ndowództwo widzi inne wyjœcie z tej sytuacji.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wprawdzie listy goñcze za tym mê¿czyzn¹ kr¹¿¹ po ca³ej galaktyce,\njednak nie jest powiedziane, ¿e ma on obecnie ca³kowicie\nz³e intencje.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Ostatnim razem, gdy otrzymaliœmy odczyt z tej Jednostki Dowodz¹cej,\nbra³a ona udzia³ w ratowaniu wielomilionowego miasta\nz r¹k obcych.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Byæ mo¿e Zack oka¿e siê wartoœciowym cz³onkiem dru¿yny.\nZabezpiecz teren, kapitanie, byœmy mogli przeszukaæ\nten uk³ad. Powodzenia!",
+		},
+	],
+	"winDialogueSequencesA": [
+		{
+			"character": "Kaite",
+			"text": "Co? Mutanci i Cyborgi sprzymierzeni?! Jeszcze rok temu uzna³abym\ntaki uk³ad za kompletnie niedopuszczalny!",
+		},{
+			"character": "Kaite",
+			"text": "Po tych wszystkich zbrodniach, jakich dopuœciliœcie siê podczas\npoprzedniej wojny, nie spodziewa³am siê, ze kiedykolwiek\nporozmawiam z którymœ z was jak z drugim cz³owiekiem.",
+		},{
+			"character": "Kaite",
+			"text": "Niemniej jednak podczas mojego odizolowania widzia³am doœæ,\n¿eby dojœæ do wniosku, ¿e nie ma dla nas wszystkich\ninnej drogi ratunku.",
+		},{
+			"character": "Kaite",
+			"text": "Poza tym twoja kampania pokazuje tylko, ¿e nie myli³am siê\nw tej kwestii. W zaistnia³ej sytuacji nie widzê\ninnego wyjœcia jak wesprzeæ tê kampaniê.",
+		},
+	],
+	"winDialogueSequencesB": [
+		{
+			"character": "Zack",
+			"text": "Od d³u¿szego czasu œledzê poczynania waszej ma³ej kampanii.\nWychodzi na to, ¿e odbijanie naszej galaktyki idzie wam\nzaskakuj¹co dobrze.",
+		},{
+			"character": "Zack",
+			"text": "Sojusz Cyborgów z Mutantami. Kto by pomyœla³, ¿e którekolwiek\nz nas do¿yje dnia, w którym zakoñczymy t¹\nbezsensown¹ wojnê.",
+		},{
+			"character": "Zack",
+			"text": "Szczerze mówi¹c nie trzymam ¿adnej strony. Zarówno Cyborgi\njak i Mutanci szczerze mnie nienawidz¹. Sam nie jestem\n¿adnym z nich, mówi¹c szczerze.",
+		},{
+			"character": "Zack",
+			"text": "No, jeœli nie liczyæ oczywiœcie implantów oczu. Tak czy inaczej\nnasze interesy w chwili obecnej s¹ zbie¿ne, a to oznacza,\n¿e wam pomogê.",
+		},{
+			"character": "Zack",
+			"text": "Oczywiœcie nie bêdê w stanie wiele zdzia³aæ zza kratek, ale z\ninformacji, które pozyska³em z serwerów waszego dowództwa wynika,\n¿e zamiast wiêzienia czeka mnie s³u¿ba wojskowa.",
+		},{
+			"character": "Zack",
+			"text": "Jestem w stanie to zaakceptowaæ, dlatego do³¹czê do twojej dru¿yny.",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Próbuj dalej, kapitanie. Osoba znajduj¹ca siê w tym uk³adzie\nz pewnoœci¹ jest warta zachodu!",
+		},
+	]
+}

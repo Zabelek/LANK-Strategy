@@ -1,0 +1,29 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie otrzymujemy niepokoj¹ce sygna³y z tego uk³adu.\nJest ma³a szansa, ¿e w koñcu namierzyliœmy placówkê,\nktórej szukamy od miesiêcy!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wed³ug zgromadzonych danych to w³aœnie tutaj wróg przeprowadza\neksperymenty na gatunkach z naszej galaktyki.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Maj¹c wiedzê o tym, jak rozwinê³y siê formy ¿ycia u nas, obcy mog¹\nspróbowaæ wynaleŸæ ró¿nego rodzaju choroby i inne paskudztwa!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie mo¿emy sobie przecie¿ pozwoliæ na pandemiê w œrodku\nprowadzonej wojny, dlatego znaczenie tej misji jest kluczowe!\nPowodzenia, kapitanie. Jak zwykle, liczymy na ciebie.",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doskonale kapitanie! Wytr¹ciliœmy kolejnego asa z rêkawa przeciwnika!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dobrze, ¿e przynajmniej uda³o ci siê uciec. Kiedy wydobrzejesz,\nwróæ tam, kapitanie.",
+		},
+	]
+}

@@ -1,0 +1,61 @@
+alien-heavy-unit1.png
+size: 855, 870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+podw-bot
+  rotate: false
+  xy: 0, 0
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+podw-botleft
+  rotate: false
+  xy: 285, 0
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+podw-botright
+  rotate: false
+  xy: 570, 0
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+podw-left
+  rotate: false
+  xy: 0, 290
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+podw-right
+  rotate: false
+  xy: 285, 290
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+podw-top
+  rotate: false
+  xy: 570, 290
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+podw-topleft
+  rotate: false
+  xy: 0, 580
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+podw-topright
+  rotate: false
+  xy: 285, 580
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1

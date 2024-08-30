@@ -1,0 +1,47 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, otrzymaliœmy interesuj¹ce odczyty z tego uk³adu. Nasi specjaliœci wychwycili\nsygna³ podobny do tego, jaki jeszcze rok temu wysy³a³y w kosmos jednostki dowodzenia armii Cyborgów.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "W archiwach operacyjnych armii Cyborgów znaleŸliœmy wpis, ¿e\nostatni¹ osob¹, która walczy³a w tym uk³adzie, by³a sama Anna Vearis.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jeœli jakimœ cudem nie wiesz, kto to jest, to rozjaœniê ci\nsytuacjê. To najwiêkszy dowódca wœród cyborgów tego stulecia. Choæ m³oda, \n ma na koncie wiêcej zwyciêstw ni¿ którykolwiek z emerytowanych oficerów.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "W czasach poprzedniej wojny miasta Mutantów kapitulowa³y,\ngdy tylko orientowa³y siê, ¿e oblê¿enie prowadzi kapitan Vearis.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jednostki dowodzenia cyborgów z tamtego okresu wyposa¿one by³y w eksperymentalny \nawaryjny modu³ hibernacyjny. Wprawdzie w 99% przypadków modu³ nie dzia³a³,\njednak jeœli tym razem by³o inaczej, mo¿emy nabyæ cennego sojusznika.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dla kapitan Vearis sytuacja z dnia dzisiejszego mo¿e wydaæ sie\nniezrozumia³a, wiêc akcj¹ ratunkow¹ zajm¹ siê nasi specjaliœci.",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "To bardzo delikatne przedsiêwziêcie, dlatego w tym czasie musisz\nzaj¹æ siê silami wroga stacjonuj¹cymi w tych okolicach. Liczymy na ciebie, kapitanie!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "Anna",
+			"text": "Powiedziano mi, ¿e to tobie zawdziêczam wybudzenie ze œpi¹czki. Dowiedzia³am\nsiê równie¿ kilku rzeczy o tobie...",
+		},		{
+			"character": "Anna",
+			"text": "Nie myœl sobie, ¿e uzyskasz moj¹ wdziêcznoœæ. Szczerze mówi¹c wola³abym\nchyba pozostaæ w œpi¹czce, ni¿ walczyæ ramie w ramie z mutantami!",
+		},		{
+			"character": "Anna",
+			"text": "Przez wzgl¹d na dawnych dowódców cyborgów, z którymi ju¿ rozmawia³am,\nnie odejdê z armii. Bede broniæ naszych miast przed\nobcymi, ale lepiej nie wchodŸ mi w drogê...",
+		},		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Urocza osobowoœæ, nieprawda¿? Ledwie pojawi³a siê w sali obrad, a\nju¿ zaczê³a siê awanturowaæ i prezydentowi mutantów grozi³a œmierci¹.\nMiejmy nadziejê, ¿e uda siê utrzymaæ j¹ w ryzach...",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "A niech to! Porzucamy misje, trzeba ewakuowaæ dru¿ynê specjalistów!",
+		},
+	]
+}

@@ -1,0 +1,285 @@
+alien-heavy-unit2.png
+size: 2030, 2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+podw-bot-0
+  rotate: false
+  xy: 0, 0
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-bot-1
+  rotate: false
+  xy: 290, 0
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-bot-2
+  rotate: false
+  xy: 580, 0
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-bot-3
+  rotate: false
+  xy: 870, 0
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-bot-4
+  rotate: false
+  xy: 1160, 0
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botleft-0
+  rotate: false
+  xy: 1450, 0
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botleft-1
+  rotate: false
+  xy: 1740, 0
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botleft-2
+  rotate: false
+  xy: 0, 340
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botleft-3
+  rotate: false
+  xy: 290, 340
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botleft-4
+  rotate: false
+  xy: 580, 340
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botright-0
+  rotate: false
+  xy: 870, 340
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botright-1
+  rotate: false
+  xy: 1160, 340
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botright-2
+  rotate: false
+  xy: 1450, 340
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botright-3
+  rotate: false
+  xy: 1740, 340
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-botright-4
+  rotate: false
+  xy: 0, 680
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-left-0
+  rotate: false
+  xy: 290, 680
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-left-1
+  rotate: false
+  xy: 580, 680
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-left-2
+  rotate: false
+  xy: 870, 680
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-left-3
+  rotate: false
+  xy: 1160, 680
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-left-4
+  rotate: false
+  xy: 1450, 680
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-right-0
+  rotate: false
+  xy: 1740, 680
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-right-1
+  rotate: false
+  xy: 0, 1020
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-right-2
+  rotate: false
+  xy: 290, 1020
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-right-3
+  rotate: false
+  xy: 580, 1020
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-right-4
+  rotate: false
+  xy: 870, 1020
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-top-0
+  rotate: false
+  xy: 1160, 1020
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-top-1
+  rotate: false
+  xy: 1450, 1020
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-top-2
+  rotate: false
+  xy: 1740, 1020
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-top-3
+  rotate: false
+  xy: 0, 1360
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-top-4
+  rotate: false
+  xy: 290, 1360
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topleft-0
+  rotate: false
+  xy: 580, 1360
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topleft-1
+  rotate: false
+  xy: 870, 1360
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topleft-2
+  rotate: false
+  xy: 1160, 1360
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topleft-3
+  rotate: false
+  xy: 1450, 1360
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topleft-4
+  rotate: false
+  xy: 1740, 1360
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topright-0
+  rotate: false
+  xy: 0, 1700
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topright-1
+  rotate: false
+  xy: 290, 1700
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topright-2
+  rotate: false
+  xy: 580, 1700
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topright-3
+  rotate: false
+  xy: 870, 1700
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1
+podw-topright-4
+  rotate: false
+  xy: 1160, 1700
+  size: 290, 340
+  orig: 290, 340
+  offset: 0, 0
+  index: -1

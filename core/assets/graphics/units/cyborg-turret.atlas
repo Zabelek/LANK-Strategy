@@ -1,0 +1,75 @@
+cyborg-turret.png
+size: 940, 1800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 470, 0
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+tower-bot
+  rotate: false
+  xy: 0, 360
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+tower-botleft
+  rotate: false
+  xy: 470, 360
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+tower-botright
+  rotate: false
+  xy: 0, 720
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+tower-left
+  rotate: false
+  xy: 470, 720
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+tower-right
+  rotate: false
+  xy: 0, 1080
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+tower-top
+  rotate: false
+  xy: 470, 1080
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+tower-topleft
+  rotate: false
+  xy: 0, 1440
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1
+tower-topright
+  rotate: false
+  xy: 470, 1440
+  size: 470, 360
+  orig: 470, 360
+  offset: 0, 0
+  index: -1

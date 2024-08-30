@@ -1,0 +1,117 @@
+mutant-heavy-tank.png
+size: 1950, 2940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+podw-bot
+  rotate: false
+  xy: 0, 0
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+podw-botleft
+  rotate: false
+  xy: 650, 0
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+podw-botright
+  rotate: false
+  xy: 1300, 0
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+podw-left
+  rotate: false
+  xy: 0, 490
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+podw-right
+  rotate: false
+  xy: 650, 490
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+podw-top
+  rotate: false
+  xy: 1300, 490
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+podw-topleft
+  rotate: false
+  xy: 0, 980
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+podw-topright
+  rotate: false
+  xy: 650, 980
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+tower-bot
+  rotate: false
+  xy: 1300, 980
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+tower-botleft
+  rotate: false
+  xy: 0, 1470
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+tower-botright
+  rotate: false
+  xy: 650, 1470
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+tower-left
+  rotate: false
+  xy: 1300, 1470
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+tower-right
+  rotate: false
+  xy: 0, 1960
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+tower-top
+  rotate: false
+  xy: 650, 1960
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+tower-topleft
+  rotate: false
+  xy: 1300, 1960
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1
+tower-topright
+  rotate: false
+  xy: 0, 2450
+  size: 650, 490
+  orig: 650, 490
+  offset: 0, 0
+  index: -1

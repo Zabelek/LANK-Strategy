@@ -1,0 +1,20 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie zd¹¿yliœmy jeszcze zagospodarowaæ w ca³oœci odbitych planet.\nDziêki temu mo¿esz spokojnie trenowaæ na nich nowe strategie.\n Nie marnuj jednak zbyt du¿o czasu, pamiêtaj, galaktyka ciê potrzebuje!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Mam nadziejê, ¿e trening okaza³ siê owocny. Teraz rozwa¿ proszê powrót do ratowania galaktyki.",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Mam nadzieje, ¿e trening okaza³ siê owocny. Teraz rozwa¿ proszê powrót do ratowania galaktyki.",
+		},
+	]
+}

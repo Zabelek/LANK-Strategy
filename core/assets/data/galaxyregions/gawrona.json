@@ -1,0 +1,11 @@
+{
+	"starSystems": [
+		{
+			"name": "DS-8-ADB",
+			"resourcePotential": 112,
+			"xPos": 423,
+			"yPos": 408,
+			"starsToUnlock": 0,
+		}
+	]
+}

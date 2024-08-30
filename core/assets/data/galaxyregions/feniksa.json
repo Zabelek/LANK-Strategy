@@ -1,0 +1,11 @@
+{
+	"starSystems": [
+		{
+			"name": "Bavirion-33",
+			"resourcePotential": 98,
+			"xPos": 886,
+			"yPos": 358,
+			"starsToUnlock": 0,
+		}
+	]
+}

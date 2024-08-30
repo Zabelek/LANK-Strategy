@@ -1,0 +1,18 @@
+{
+	"starSystems": [
+		{
+			"name": "ibomar",
+			"resourcePotential": 100,
+			"xPos": 350,
+			"yPos": 611,
+			"starsToUnlock": 0,
+		},
+		{
+			"name": "zegor",
+			"resourcePotential": 101,
+			"xPos": 1150,
+			"yPos": 311,
+			"starsToUnlock": 1,
+		}
+	]
+}

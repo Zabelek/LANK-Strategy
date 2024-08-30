@@ -1,0 +1,64 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, sprawa tego uk³adu jest teraz priorytetowa!\nOdnaleŸliœmy utracony sygna³ Jednostki Dowodz¹cej nale¿¹cej do\nchor¹¿ego Simona Efwateha, niezwykle utalentowanego oficera mutantów.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Ponad trzy miesi¹ce temu utraciliœmy z nim kontakt, a jego rodzina\nzd¹¿y³a ju¿ prze¿yæ ¿a³obê. Wiadomoœci o wychwyceniu sygna³u mog¹ byæ zwiastunem nowej nadziei!",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Chor¹¿y Simon Efwateh na pewno oka¿e siê pomocny w naszej\nkampanii, kapitanie. Tym bardziej warto dopilnowaæ, by wróci³ bezpiecznie do domu.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Twoje zadanie to zajecie uwagi tutejszego dowódcy obcych, by\nnasze ekipy odszuka³y to, co zosta³o z Jednostki Dowodz¹cej chor¹¿ego Efwateha.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wiemy, ¿e ¿yje, ale nie jesteœmy w stanie orzec, w jakim jest stanie. Postaraj\nsiê wyeliminowaæ tutejszego dowódcê wroga, aby ewakuacja zasz³a bezproblemowo.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Powodzenia, kapitanie. W twoich rêkach ¿ycie bardzo cennego sojusznika!",
+		}
+	],
+	"winDialogueSequences": [
+		{
+			"character": "Simon",
+			"text": "To ponoæ tobie mam podziêkowaæ za ocalenie ¿ycia. A niech mnie,\ngalaktyka sta³a siê niewielka, skoro mój pospolity ty³ek ratuje taka gwiazda jak ty!",
+		},
+{
+			"character": "Simon",
+			"text": "Nie lubiê siê rozgadywaæ. Najlepiej bêdzie, jak odwdziêczê siê wspó³prac¹.",
+		},
+{
+			"character": "Simon",
+			"text": "Umówmy siê tak. Ty prowadzisz dzia³ania zaczepne na terenie wroga,\na ja tymczasem dbam o to, ¿eby te pokraczne stwory nie zapuœci³y swoich macek zbyt g³êboko w nasze terytorium, co ty na to?",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Prêdzej czy póŸniej ze strony obcych nast¹pi odpowiedŸ na nasz¹\nkampaniê. Wtedy dobrze bêdzie, jak znajd¹ siê ludzie, którzy polec¹\nbroniæ naszych oblê¿onych miast.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Ju¿ niebawem bêdziesz potrzebowaæ pomocy chor¹¿ego Efwateha. Tym\nlepiej, ¿e uda³o siê go ponownie zwerbowaæ.",
+		},
+{
+			"character": "Simon",
+			"text": "A niech mnie, ten dziadek przynudza dok³adnie tak samo, jak gdy\nostatnio wysy³ali mnie na misje. Powiedz, nie masz jakichœ zamienników\nalbo co? Nie czas poza tym na emeryturê?",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Chor¹¿y Efwateh jak zwykle wygadany... na emeryturê przejdê, gdy galaktyka bêdzie\nbezpieczna. Ktoœ przecie¿ musi czytaæ z kartki odprawy dla kapitana!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "A niech to! By³o tak blisko! Odsapnij i wracaj tam szybko, puki\nchor¹¿y Efwateh jeszcze ¿yje!",
+		},
+	]
+}

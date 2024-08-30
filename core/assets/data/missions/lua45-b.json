@@ -1,0 +1,29 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jakiœ czas temu wys³aliœmy do tego systemu kilku badaczy, których\nzadaniem by³o studiowanie zachowañ i zwyczajów obcych.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Znaj¹c ich zachowanie moglibyœmy lepiej przewidywaæ ich ruchy,\nco oczywiœcie przyczyni³oby siê do naszego zwyciêstwa.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Niestety od pewnego czasu sygna³y jednostki badaczy przesta³y do\nnas docieraæ. Ich ¿ycie jest bardzo cenne\ndla naszej sprawy!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Musisz zrobiæ zamieszanie, tak byœmy mogli przeprowadziæ\nposzukiwania. Pokonaj któr¹œ z Jednostek Dowodz¹cych\n wroga, to powinno wystarczyæ.",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Tak trzymaj, kapitanie! Z tyloma zwyciêstwami na naszym koncie\nnie musimy siê ju¿ chyba obawiaæ wroga. Badacze s¹ cali\ni zdrowi, w³aœnie ich ewakuujemy.",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie znaleŸliœmy jeszcze badaczy, kapitanie.\nMusisz tam wróciæ i dokoñczyæ dzie³a.",
+		},
+	]
+}

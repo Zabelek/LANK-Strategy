@@ -1,0 +1,75 @@
+alien-turret.png
+size: 1720, 1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 430, 0
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+tower-bot
+  rotate: false
+  xy: 860, 0
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+tower-botleft
+  rotate: false
+  xy: 1290, 0
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+tower-botright
+  rotate: false
+  xy: 0, 510
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+tower-left
+  rotate: false
+  xy: 430, 510
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+tower-right
+  rotate: false
+  xy: 860, 510
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+tower-top
+  rotate: false
+  xy: 1290, 510
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+tower-topleft
+  rotate: false
+  xy: 0, 1020
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1
+tower-topright
+  rotate: false
+  xy: 430, 1020
+  size: 430, 510
+  orig: 430, 510
+  offset: 0, 0
+  index: -1

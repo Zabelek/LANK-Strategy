@@ -1,0 +1,36 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, pilne wieœci z systemu s04-118u! Grupa uchodŸców, z któr¹ utrzymujemy\nkontakt, zawiadomi³a w³aœnie, ¿e zostali odkryci!",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Ju¿ niebawem uwaga obcych skupi siê na nich, a to bêdzie oznacza³o koniec dla wielu\nmilionów cyborgów i mutantów! Nie dopuœæ do tego, kapitanie!",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dobrym pomys³em na walkê na tych terenach by³oby skorzystanie z broni pancernej.\nLekkie czo³gi charakteryzuj¹ siê szybkoœci¹, zarówno jazdy w terenie, jak i strzelania.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "To dobra broñ, lecz trzeba u¿ywaæ jej z rozwag¹. Ich cena w metalu\njest wprawdzie wysoka, a do tego, by zbudowaæ ich fabrykê w warunkach polowych\npotrzeba naprawdê ogromnych iloœci energii, ale zapewniam, s¹ tego warte.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Ufamy, ¿e zrobisz to, co jest konieczne. Powodzenia, kapitanie!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doskonale! Ludzie nie musz¹ ju¿ obawiaæ siê wroga, obcy s¹ w ca³kowitym odwrocie!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Pozbieraj siê szybko, kapitanie i ruszaj tu ponownie! Nie mamy czasu do stracenia!",
+		},
+	]
+}

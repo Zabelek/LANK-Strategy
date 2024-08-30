@@ -1,0 +1,75 @@
+cyborg-power-generator.png
+size: 1850, 840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal-0
+  rotate: false
+  xy: 370, 0
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal-1
+  rotate: false
+  xy: 740, 0
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal-2
+  rotate: false
+  xy: 1110, 0
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal-3
+  rotate: false
+  xy: 1480, 0
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal-4
+  rotate: false
+  xy: 0, 420
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal-5
+  rotate: false
+  xy: 370, 420
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal-6
+  rotate: false
+  xy: 740, 420
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal-7
+  rotate: false
+  xy: 1110, 420
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 1480, 420
+  size: 370, 420
+  orig: 370, 420
+  offset: 0, 0
+  index: -1

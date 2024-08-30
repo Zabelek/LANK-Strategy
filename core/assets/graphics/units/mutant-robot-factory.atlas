@@ -1,0 +1,19 @@
+mutant-robot-factory.png
+size: 760, 270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+in-build
+  rotate: false
+  xy: 0, 0
+  size: 380, 270
+  orig: 380, 270
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 380, 0
+  size: 380, 270
+  orig: 380, 270
+  offset: 0, 0
+  index: -1

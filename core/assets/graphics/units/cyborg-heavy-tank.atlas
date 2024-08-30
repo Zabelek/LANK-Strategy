@@ -1,0 +1,117 @@
+cyborg-heavy-tank.png
+size: 3360, 1110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+podw-bot
+  rotate: false
+  xy: 0, 0
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+podw-botleft
+  rotate: false
+  xy: 560, 0
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+podw-botright
+  rotate: false
+  xy: 1120, 0
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+podw-left
+  rotate: false
+  xy: 1680, 0
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+podw-right
+  rotate: false
+  xy: 2240, 0
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+podw-top
+  rotate: false
+  xy: 2800, 0
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+podw-topleft
+  rotate: false
+  xy: 0, 370
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+podw-topright
+  rotate: false
+  xy: 560, 370
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+tower-bot
+  rotate: false
+  xy: 1120, 370
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+tower-botleft
+  rotate: false
+  xy: 1680, 370
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+tower-botright
+  rotate: false
+  xy: 2240, 370
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+tower-left
+  rotate: false
+  xy: 2800, 370
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+tower-right
+  rotate: false
+  xy: 0, 740
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+tower-top
+  rotate: false
+  xy: 560, 740
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+tower-topleft
+  rotate: false
+  xy: 1120, 740
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1
+tower-topright
+  rotate: false
+  xy: 1680, 740
+  size: 560, 370
+  orig: 560, 370
+  offset: 0, 0
+  index: -1

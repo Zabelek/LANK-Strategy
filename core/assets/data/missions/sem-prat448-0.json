@@ -1,0 +1,34 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "
+Sta³o siê! Mamy przed sob¹ perspektywê posiadania w ca³oœci wyzwolonego regionu!\nNie czas jeszcze jednak na œwiêtowanie. Ten uk³ad gwiezdny sta³\nsiê g³ówn¹ baz¹ wypadow¹ wroga na tych terenach.
+",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie lekcewa¿ przeciwnika, kapitanie. Obcy nie s¹ g³upi i do tego starcia wystawi¹\nnajlepszego lokalnego dowódcê. Potraktuj to jako sprawdzian umiejêtnoœci.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Do twojego arsena³u dodane zosta³y plany czo³gu œredniego. Jest wzglêdnie\n szybkostrzelny i ma daleki zasiêg. Wierzymy, ¿e wykorzystasz go m¹drze.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Powodzenia, kapitanie. Z niecierpliwoœci¹ wyczekujemy twojego powrotu!\nPamiêtaj, ¿e ten uk³ad jest kluczem do wyzwolenia pozosta³ych regionów naszej galaktyki!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dobra robota, kapitanie! Teraz mo¿emy na powa¿nie zastanowiæ siê nad\nodbijaniem nastêpnych regionów galaktyki! Miejmy tylko nadzieje, ¿e choæ czêœæ ludzi z\nupad³ych uk³adów zdo³a³a gdzieœ siê schroniæ.",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "To nie jest nasze ostatnie s³owo, kapitanie. Obcy s¹ pod œcian¹,\nnastêpny cios bêdzie tym decyduj¹cym, wierzymy w to.",
+		},
+	]
+}

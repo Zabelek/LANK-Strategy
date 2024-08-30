@@ -1,0 +1,61 @@
+star_system.png
+size: 1928, 3398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+planeta_atakowana
+  rotate: false
+  xy: 4, 4
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+planeta_bez_miasta
+  rotate: false
+  xy: 4, 1084
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+planeta_z_miastem
+  rotate: false
+  xy: 4, 2164
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 4, 3244
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 154, 3244
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+star_hover1
+  rotate: false
+  xy: 304, 3244
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+star_hover2
+  rotate: false
+  xy: 454, 3244
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+star_hover3
+  rotate: false
+  xy: 604, 3244
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

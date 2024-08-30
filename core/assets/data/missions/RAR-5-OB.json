@@ -1,0 +1,26 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Gromadz¹c odczyty z tego uk³adu jesteœmy coraz bardziej\nzaniepokojeni. Wygl¹da na to, ¿e obcy prowadz¹ tu badania\nnad poblisk¹ czarn¹ dziur¹.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie chcê nawet myœleæ, co mog³oby im wyjœæ z tych badan.\nNie ma najmniejszych w¹tpliwoœci, ¿e trzeba ich powstrzymaæ.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "To zadanie w twoich rêkach, kapitanie. Skoñcz z nimi prêdko i wracaj\ndo bazy. Ktoœ przecie¿ musi mi pomoc z ta papierkow¹ robot¹...",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jak zwykle dobra robota, kapitanie. Teraz trzeba tylko dopilnowaæ,\n¿eby nie przejêli tego uk³adu na nowo.",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Nie mo¿na pozwoliæ, by ta czarna dziura pozosta³a w ich ³apskach,\nkapitanie! Wracaj tam czym prêdzej!",
+		},
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"starSystems": [
+		{
+			"name": "P85-44",
+			"resourcePotential": 207,
+			"xPos": 1299,
+			"yPos": 470,
+			"starsToUnlock": 0,
+		}
+	]
+}

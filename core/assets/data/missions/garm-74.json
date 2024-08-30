@@ -1,0 +1,23 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kapitanie, z³e wieœci z uk³adu Garm-74! Mieszkañcy\npoukrywani w schronach wys³ali sygna³ SOS i najprawdopodobniej w tej chwili odpieraj¹ si³y wroga!",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Musisz czym prêdzej za³o¿yæ bazê i przypuœciæ atak na\nwrogiego dowódcê. Liczymy na ciebie!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Doskonale! Ten uk³ad oficjalnie dodany jest do naszego terytorium!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wygl¹da na to, ze mieszkañcy Garm-74 jeszcze przez jakiœ\nczas bêd¹ musieli poradziæ sobie sami...",
+		},
+	]
+}

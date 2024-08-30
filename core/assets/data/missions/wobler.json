@@ -1,0 +1,40 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Sta³o siê! Ostatni wolny system gwiezdny imperium Cyborgów jest atakowany!\nJeœli utracimy stolicê tego uk³adu, wszystkie drogi ewakuacyjne z innych\nczêœci galaktyki zostan¹ odciête. To bêdzie nasz koniec, kapitanie.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Twoim zadaniem jest utworzenie bazy wypadowej niedaleko stolicy\ni zaatakowanie umocnieñ wroga, sk¹d wysy³ane s¹ oddzia³y desantowe.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wybuduj kilka kopalñ metalu i elektrowni, by dostarczyæ twojej bazie\nniezbêdnych zasobów do funkcjonowania. Kiedy to zrobisz, wybuduj fabrykê botów.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Pamiêtaj, aby zacz¹æ od zapewnienia sobie dop³ywu energii i metalu,\n bo kiedy ci ich zabraknie, a bêdziesz mieæ zero przyrostu, twoja produkcja stanie w miejscu.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Kiedy fabryka bêdzie gotowa, wyprodukuj w niej przynajmniej\npiêæ lekkich botów. Pomog¹ one Twojej Jednostce Dowodz¹cej zaatakowaæ bazê wroga\nznajduj¹c¹ siê na po³udniowym zachodzie.",
+		},
+{
+			"character": "LacznikKwateryGlownej",
+			"text": "Powodzenia, kapitanie. Wszystkie cyborgi licz¹ na ciebie!",
+		}
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dobra robota, kapitanie! Dziêki tobie ten uk³ad jest znowu bezpieczny!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Cale szczêœcie, ¿e uda³o siê ciebie w porê ewakuowaæ, kapitanie.\nNie przejmuj siê, odbijemy ten uk³ad kiedy indziej.",
+		},
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"startDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Teraz ju¿ chyba œmia³o mo¿na powiedzieæ, ¿e przeszliœmy do ofensywy.\nSi³y wroga w prawie ka¿dym zak¹tku galaktyki siê wycofuj¹.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Jesteœmy ju¿ bardzo blisko, kapitanie. Nie mo¿na jednak pozwoliæ\nprzeciwnikowi nawet na chwilê wytchnienia.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Dlatego w³aœnie lecisz dziœ na jeden z najlepiej strze¿onych terenów wroga.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Te mackowate poczwary okupuj¹ ten uk³ad prawie od samego pocz¹tku\ninwazji i wykorzystuj¹ go jako bazê wypadow¹.",
+		},{
+			"character": "LacznikKwateryGlownej",
+			"text": "Wiesz, co masz robiæ, kapitanie. Powodzenia!",
+		},
+	],
+	"winDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Ci przebrzydli kosmici ju¿ dr¿¹ na widok twojej Jednostki Dowodzenia,\nkapitanie! Tak trzymaæ!",
+		},
+	],
+	"loseDialogueSequences": [
+		{
+			"character": "LacznikKwateryGlownej",
+			"text": "Byæ mo¿e trochê przesadziliœmy zapuszczaj¹c siê a¿ tak\ng³êboko na terytorium wroga…",
+		},
+	]
+}
