@@ -7,4 +7,8 @@ W trybie RTS gracz steruje armią robotów, natomiast w strategii turowej buduje
 
 Gra posiada funkcjonalności wczytywania i zapisywania stanu rozgrywki, modyfikacji ustawień audio-wizualnych, wiele funkcjonalnych widoków, diwe frakcje do wyboru oraz 14 jednostek do wypróbowania.
 
+![Image1](https://github.com/Zabelek/LANK-Strategy/blob/main/images/1.png?raw=true)
+![Image2](https://github.com/Zabelek/LANK-Strategy/blob/main/images/2.png?raw=true)
+![Image3](https://github.com/Zabelek/LANK-Strategy/blob/main/images/3.png?raw=true)
+
 Rozwój projektu zakończony.
