@@ -6,3 +6,5 @@ Laserowa Anihilacja Najeźdźców z Kosmosu to gra łącząca cechy RTS oraz str
 W trybie RTS gracz steruje armią robotów, natomiast w strategii turowej buduje i ulepsza miasta oraz odpiera ataki na miasta już wybudowane. Tryby mają na siebie nawzajem wpływ, ponieważ niektóre ulepszenia miast wpływają na przykład na siłę robotów, a na terenach podbitych w trybie RTS gracz może budować miasta w trybie turowym. Dodatkowo gracz ma do dyspozycji oficerów pomocniczych, których można wysyłać do walki z kosmitami. Celem gry jest podbój całej galaktyki, podzielonej na regiony, które z kolei dzielą się na systemy gwiezdne.
 
 Gra posiada funkcjonalności wczytywania i zapisywania stanu rozgrywki, modyfikacji ustawień audio-wizualnych, wiele funkcjonalnych widoków, diwe frakcje do wyboru oraz 14 jednostek do wypróbowania.
+
+Rozwój projektu zakończony.
